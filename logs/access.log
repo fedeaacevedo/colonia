@@ -1,0 +1,987 @@
+104.209.148.247 - - [16/Nov/2025:04:05:37 -0300] "POST /wp-cron.php?doing_wp_cron=1763276737.4651288986206054687500 HTTP/1.1" 200 31 "-" "WordPress/6.4.7; https://www.colonia.estudiantesdelaplata.com" - 0.001
+107.189.13.175 - - [16/Nov/2025:04:05:37 -0300] "GET /wp-login.php HTTP/1.1" 200 2719 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" BYPASS 0.657
+107.189.13.175 - - [16/Nov/2025:04:05:39 -0300] "POST /wp-login.php HTTP/1.1" 200 2852 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" - 0.264
+209.141.60.77 - - [16/Nov/2025:04:07:13 -0300] "GET /wp-login.php HTTP/1.1" 200 2719 "https://www.google.com/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" BYPASS 0.253
+209.141.60.77 - - [16/Nov/2025:04:07:15 -0300] "POST /wp-login.php HTTP/1.1" 200 2852 "https://www.google.com/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" - 0.256
+45.61.188.54 - - [16/Nov/2025:04:08:10 -0300] "GET /wp-login.php HTTP/1.1" 200 2719 "https://duckduckgo.com/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" BYPASS 0.258
+45.61.188.54 - - [16/Nov/2025:04:08:10 -0300] "POST /wp-login.php HTTP/1.1" 200 2851 "https://duckduckgo.com/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" - 0.253
+45.61.188.233 - - [16/Nov/2025:04:10:39 -0300] "GET / HTTP/1.1" 200 12374 "https://www.bing.com/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" EXPIRED 0.502
+45.61.188.233 - - [16/Nov/2025:04:10:41 -0300] "GET /wp-login.php HTTP/1.1" 200 2719 "https://www.bing.com/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" BYPASS 0.278
+45.61.188.233 - - [16/Nov/2025:04:10:41 -0300] "POST /wp-login.php HTTP/1.1" 200 2851 "https://www.bing.com/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" - 0.252
+198.98.59.143 - - [16/Nov/2025:04:10:45 -0300] "GET /wp-login.php HTTP/1.1" 200 2719 "https://www.google.com/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" BYPASS 0.252
+198.98.59.143 - - [16/Nov/2025:04:10:46 -0300] "POST /wp-login.php HTTP/1.1" 200 2853 "https://www.google.com/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" - 0.257
+104.244.78.206 - - [16/Nov/2025:04:12:02 -0300] "GET /wp-login.php HTTP/1.1" 200 8789 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36" BYPASS 0.255
+104.244.78.206 - - [16/Nov/2025:04:12:02 -0300] "POST /wp-login.php HTTP/1.1" 200 9253 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36" - 0.252
+209.141.61.56 - - [16/Nov/2025:04:15:47 -0300] "GET /wp-login.php HTTP/1.1" 200 2719 "https://duckduckgo.com/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" BYPASS 0.257
+209.141.61.56 - - [16/Nov/2025:04:15:48 -0300] "POST /wp-login.php HTTP/1.1" 200 2853 "https://duckduckgo.com/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" - 0.253
+209.141.60.77 - - [16/Nov/2025:04:19:39 -0300] "GET /wp-login.php HTTP/1.1" 200 2719 "https://www.google.com/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" BYPASS 0.280
+209.141.60.77 - - [16/Nov/2025:04:19:40 -0300] "POST /wp-login.php HTTP/1.1" 200 2852 "https://www.google.com/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" - 0.253
+209.141.47.135 - - [16/Nov/2025:04:22:11 -0300] "GET /wp-login.php HTTP/1.1" 200 2719 "https://www.yahoo.com/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" BYPASS 0.255
+209.141.47.135 - - [16/Nov/2025:04:22:13 -0300] "POST /wp-login.php HTTP/1.1" 200 2851 "https://www.yahoo.com/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" - 0.258
+45.61.188.54 - - [16/Nov/2025:04:23:50 -0300] "GET /wp-login.php HTTP/1.1" 200 2719 "https://www.yahoo.com/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.90 Safari/537.36 Edg/118.0.2088.76" BYPASS 0.260
+45.61.188.54 - - [16/Nov/2025:04:23:51 -0300] "POST /wp-login.php HTTP/1.1" 200 2853 "https://www.yahoo.com/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.90 Safari/537.36 Edg/118.0.2088.76" - 0.274
+45.148.10.152 - - [16/Nov/2025:04:38:19 -0300] "GET /.travis.yml HTTP/1.1" 403 146 "-" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:139.0) Gecko/20100101 Firefox/139.0" - 0.000
+107.189.5.134 - - [16/Nov/2025:04:42:28 -0300] "GET /wp-login.php HTTP/1.1" 200 2719 "https://www.yahoo.com/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" BYPASS 0.258
+107.189.5.134 - - [16/Nov/2025:04:42:30 -0300] "POST /wp-login.php HTTP/1.1" 200 2853 "https://www.yahoo.com/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" - 0.257
+107.189.13.175 - - [16/Nov/2025:04:47:09 -0300] "GET /wp-login.php HTTP/1.1" 200 2719 "https://www.google.com/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.90 Safari/537.36 Edg/118.0.2088.76" BYPASS 0.254
+107.189.13.175 - - [16/Nov/2025:04:47:10 -0300] "POST /wp-login.php HTTP/1.1" 200 2852 "https://www.google.com/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.90 Safari/537.36 Edg/118.0.2088.76" - 0.258
+104.244.78.229 - - [16/Nov/2025:04:49:26 -0300] "GET /wp-login.php HTTP/1.1" 200 2719 "https://www.bing.com/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" BYPASS 0.255
+104.244.78.229 - - [16/Nov/2025:04:49:28 -0300] "POST /wp-login.php HTTP/1.1" 200 2853 "https://www.bing.com/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" - 0.256
+198.98.59.143 - - [16/Nov/2025:04:50:45 -0300] "GET /wp-login.php HTTP/1.1" 200 2719 "https://www.bing.com/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" BYPASS 0.256
+198.98.59.143 - - [16/Nov/2025:04:50:47 -0300] "POST /wp-login.php HTTP/1.1" 200 2851 "https://www.bing.com/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" - 0.258
+104.244.78.229 - - [16/Nov/2025:04:51:34 -0300] "GET /wp-login.php HTTP/1.1" 200 2719 "https://www.google.com/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" BYPASS 0.258
+104.244.78.229 - - [16/Nov/2025:04:51:35 -0300] "POST /wp-login.php HTTP/1.1" 200 2852 "https://www.google.com/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" - 0.253
+107.189.5.102 - - [16/Nov/2025:04:54:47 -0300] "GET /wp-login.php HTTP/1.1" 200 2719 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.117 Safari/537.36" BYPASS 0.260
+107.189.5.102 - - [16/Nov/2025:04:54:51 -0300] "POST /wp-login.php HTTP/1.1" 200 2852 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.117 Safari/537.36" - 0.262
+44.243.180.138 - - [16/Nov/2025:05:01:05 -0300] "GET / HTTP/1.1" 301 5 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/91.0.4472.124" MISS 0.259
+44.243.180.138 - - [16/Nov/2025:05:01:05 -0300] "GET / HTTP/1.1" 200 12374 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/91.0.4472.124" EXPIRED 0.430
+44.243.180.138 - - [16/Nov/2025:05:01:12 -0300] "GET /.env HTTP/1.1" 403 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:01:12 -0300] "GET /.env.local HTTP/1.1" 403 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:01:15 -0300] "GET /.env.prod HTTP/1.1" 403 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:01:15 -0300] "GET /.env.dev HTTP/1.1" 403 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:01:15 -0300] "GET /.env.test HTTP/1.1" 403 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:01:15 -0300] "GET /.env.staging HTTP/1.1" 403 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:01:15 -0300] "GET /.env.development HTTP/1.1" 403 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:01:15 -0300] "GET /.env~ HTTP/1.1" 403 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:01:15 -0300] "GET /.env.backup HTTP/1.1" 403 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:01:15 -0300] "GET /.env.production HTTP/1.1" 403 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:01:19 -0300] "GET /.env.sample HTTP/1.1" 403 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:01:19 -0300] "GET /.env.old HTTP/1.1" 403 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:01:19 -0300] "GET /.env.bak HTTP/1.1" 403 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:01:31 -0300] "GET /.env.orig HTTP/1.1" 403 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:01:31 -0300] "GET /admin/.env.old HTTP/1.1" 403 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:01:31 -0300] "GET /api/.env HTTP/1.1" 403 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:01:31 -0300] "GET /.env.dist HTTP/1.1" 403 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:01:31 -0300] "GET /app/.env.bak HTTP/1.1" 403 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:01:31 -0300] "GET /core/.env HTTP/1.1" 403 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:01:31 -0300] "GET /admin/.env HTTP/1.1" 403 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:01:31 -0300] "GET /api/.env.old HTTP/1.1" 403 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:01:31 -0300] "GET /assets/.env HTTP/1.1" 403 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:01:31 -0300] "GET /core/.env.save HTTP/1.1" 403 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:01:31 -0300] "GET /config/.env HTTP/1.1" 403 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:01:31 -0300] "GET /src/.env.bak HTTP/1.1" 403 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:01:31 -0300] "GET /api/.env.bak HTTP/1.1" 403 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:01:31 -0300] "GET /assets/.env.old HTTP/1.1" 403 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:01:31 -0300] "GET /app/.env.old HTTP/1.1" 403 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:01:31 -0300] "GET /public/.env.bak HTTP/1.1" 403 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:01:31 -0300] "GET /.env.swp HTTP/1.1" 403 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:01:31 -0300] "GET /includes/.env HTTP/1.1" 403 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:01:31 -0300] "GET /public/.env.save HTTP/1.1" 403 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:01:31 -0300] "GET /api/.env.save HTTP/1.1" 403 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:01:31 -0300] "GET /application/.env.bak HTTP/1.1" 403 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:01:31 -0300] "GET /src/.env HTTP/1.1" 403 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:01:31 -0300] "GET /assets/.env.save HTTP/1.1" 403 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:01:31 -0300] "GET /app/.env HTTP/1.1" 403 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:01:31 -0300] "GET /.env.save HTTP/1.1" 403 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:01:31 -0300] "GET /src/.env.old HTTP/1.1" 403 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:01:31 -0300] "GET /assets/.env.bak HTTP/1.1" 403 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:01:31 -0300] "GET /public/.env.old HTTP/1.1" 403 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:01:31 -0300] "GET /public/.env HTTP/1.1" 403 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:01:31 -0300] "GET /config/.env.bak HTTP/1.1" 403 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:01:31 -0300] "GET /core/.env.old HTTP/1.1" 403 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:01:31 -0300] "GET /lib/.env.old HTTP/1.1" 403 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:01:31 -0300] "GET /system/.env.old HTTP/1.1" 403 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:01:31 -0300] "GET /.env.tmp HTTP/1.1" 403 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:01:31 -0300] "GET /lib/.env.bak HTTP/1.1" 403 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:01:31 -0300] "GET /application/.env HTTP/1.1" 403 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:01:31 -0300] "GET /modules/.env HTTP/1.1" 403 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:01:31 -0300] "GET /includes/.env.save HTTP/1.1" 403 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:01:31 -0300] "GET /lib/.env.save HTTP/1.1" 403 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:01:31 -0300] "GET /system/.env.bak HTTP/1.1" 403 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:01:31 -0300] "GET /admin/.env.bak HTTP/1.1" 403 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:01:31 -0300] "GET /includes/.env.bak HTTP/1.1" 403 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:01:31 -0300] "GET /app/.env.save HTTP/1.1" 403 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:01:31 -0300] "GET /admin/.env.save HTTP/1.1" 403 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:01:31 -0300] "GET /src/.env.save HTTP/1.1" 403 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:01:31 -0300] "GET /system/.env.save HTTP/1.1" 403 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:01:31 -0300] "GET /core/.env.bak HTTP/1.1" 403 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:01:31 -0300] "GET /application/.env.save HTTP/1.1" 403 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:01:31 -0300] "GET /includes/.env.old HTTP/1.1" 403 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:01:31 -0300] "GET /modules/.env.bak HTTP/1.1" 403 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:01:31 -0300] "GET /application/.env.old HTTP/1.1" 403 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:01:31 -0300] "GET /system/.env HTTP/1.1" 403 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:01:31 -0300] "GET /config/.env.old HTTP/1.1" 403 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:01:31 -0300] "GET /lib/.env HTTP/1.1" 403 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:01:31 -0300] "GET /config/.env.save HTTP/1.1" 403 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:01:31 -0300] "GET /modules/.env.old HTTP/1.1" 403 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:01:31 -0300] "GET /modules/.env.save HTTP/1.1" 403 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:01:55 -0300] "GET /plugins/.env.old HTTP/1.1" 403 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:01:55 -0300] "GET /themes/.env HTTP/1.1" 403 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:01:55 -0300] "GET /themes/.env.bak HTTP/1.1" 403 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:01:55 -0300] "GET /plugins/.env HTTP/1.1" 403 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:01:55 -0300] "GET /plugins/.env.bak HTTP/1.1" 403 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:01:55 -0300] "GET /themes/.env.save HTTP/1.1" 403 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:01:55 -0300] "GET /vendor/.env HTTP/1.1" 403 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:01:55 -0300] "GET /plugins/.env.save HTTP/1.1" 403 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:01:56 -0300] "GET /vendor/.env.save HTTP/1.1" 403 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:01:56 -0300] "GET /themes/.env.old HTTP/1.1" 403 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:01:58 -0300] "GET /phpinfo.php HTTP/1.1" 404 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:01:58 -0300] "GET /storage/.env.save HTTP/1.1" 403 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:01:58 -0300] "GET /storage/.env HTTP/1.1" 403 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:01:58 -0300] "GET /vendor/.env.bak HTTP/1.1" 403 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:01:58 -0300] "GET /storage/.env.old HTTP/1.1" 403 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:01:58 -0300] "GET /test.php HTTP/1.1" 404 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:01:58 -0300] "GET /php_info.php HTTP/1.1" 404 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:01:58 -0300] "GET /vendor/.env.old HTTP/1.1" 403 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:01:58 -0300] "GET /info.php HTTP/1.1" 404 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:01:58 -0300] "GET /storage/.env.bak HTTP/1.1" 403 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:01:58 -0300] "GET /info2.php HTTP/1.1" 404 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:01:58 -0300] "GET /i.php HTTP/1.1" 404 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:01:58 -0300] "GET /phpinfo HTTP/1.1" 301 5 "-" "python-httpx/0.24.1" MISS 0.280
+44.243.180.138 - - [16/Nov/2025:05:01:58 -0300] "GET /pi.php HTTP/1.1" 404 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:01:58 -0300] "GET /_profiler/phpinfo HTTP/1.1" 301 5 "-" "python-httpx/0.24.1" MISS 0.268
+44.243.180.138 - - [16/Nov/2025:05:01:58 -0300] "GET /php_version.php HTTP/1.1" 404 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:01:58 -0300] "GET /serverinfo.php HTTP/1.1" 404 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:01:58 -0300] "GET /diagnostic.php HTTP/1.1" 404 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:01:58 -0300] "GET /info1.php HTTP/1.1" 404 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:01:59 -0300] "GET /check.php HTTP/1.1" 404 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:01:59 -0300] "GET /php.php HTTP/1.1" 404 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:01:59 -0300] "GET /debug.php HTTP/1.1" 404 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:01:59 -0300] "GET /server.php HTTP/1.1" 404 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:01:59 -0300] "GET /phpversion.php HTTP/1.1" 404 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:01:59 -0300] "GET /phptest.php HTTP/1.1" 404 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:02:00 -0300] "GET /info.php.bak HTTP/1.1" 301 5 "-" "python-httpx/0.24.1" MISS 1.210
+44.243.180.138 - - [16/Nov/2025:05:02:00 -0300] "GET /php_info.php.old HTTP/1.1" 301 5 "-" "python-httpx/0.24.1" MISS 1.301
+44.243.180.138 - - [16/Nov/2025:05:02:00 -0300] "GET /php_info.php.bak HTTP/1.1" 301 5 "-" "python-httpx/0.24.1" MISS 1.814
+44.243.180.138 - - [16/Nov/2025:05:02:01 -0300] "GET /info.php.save HTTP/1.1" 301 5 "-" "python-httpx/0.24.1" MISS 1.785
+104.209.148.247 - - [16/Nov/2025:05:02:01 -0300] "POST /wp-cron.php?doing_wp_cron=1763280121.0394089221954345703125 HTTP/1.1" 200 31 "-" "WordPress/6.4.7; https://www.colonia.estudiantesdelaplata.com" - 0.003
+44.243.180.138 - - [16/Nov/2025:05:02:01 -0300] "GET /info.php~ HTTP/1.1" 301 5 "-" "python-httpx/0.24.1" MISS 1.807
+44.243.180.138 - - [16/Nov/2025:05:02:01 -0300] "GET /test.php.orig HTTP/1.1" 301 5 "-" "python-httpx/0.24.1" MISS 1.817
+44.243.180.138 - - [16/Nov/2025:05:02:01 -0300] "GET /test.php~ HTTP/1.1" 301 5 "-" "python-httpx/0.24.1" MISS 1.837
+44.243.180.138 - - [16/Nov/2025:05:02:01 -0300] "GET /test.php.backup HTTP/1.1" 301 5 "-" "python-httpx/0.24.1" MISS 1.961
+44.243.180.138 - - [16/Nov/2025:05:02:01 -0300] "GET /phpinfo.php.orig HTTP/1.1" 301 5 "-" "python-httpx/0.24.1" MISS 1.956
+44.243.180.138 - - [16/Nov/2025:05:02:01 -0300] "GET /test.php.save HTTP/1.1" 301 5 "-" "python-httpx/0.24.1" MISS 2.173
+44.243.180.138 - - [16/Nov/2025:05:02:01 -0300] "GET /php_info.php.orig HTTP/1.1" 301 5 "-" "python-httpx/0.24.1" MISS 1.858
+44.243.180.138 - - [16/Nov/2025:05:02:01 -0300] "GET /php_info.php~ HTTP/1.1" 301 5 "-" "python-httpx/0.24.1" MISS 1.924
+44.243.180.138 - - [16/Nov/2025:05:02:01 -0300] "GET /php_info.php.backup HTTP/1.1" 301 5 "-" "python-httpx/0.24.1" MISS 2.130
+44.243.180.138 - - [16/Nov/2025:05:02:01 -0300] "GET /info.php.old HTTP/1.1" 301 5 "-" "python-httpx/0.24.1" MISS 2.345
+44.243.180.138 - - [16/Nov/2025:05:02:01 -0300] "GET /test.php.old HTTP/1.1" 301 5 "-" "python-httpx/0.24.1" MISS 2.318
+44.243.180.138 - - [16/Nov/2025:05:02:01 -0300] "GET /phpinfo.php.bak HTTP/1.1" 301 5 "-" "python-httpx/0.24.1" MISS 2.215
+44.243.180.138 - - [16/Nov/2025:05:02:01 -0300] "GET /phpinfo.php.save HTTP/1.1" 301 5 "-" "python-httpx/0.24.1" MISS 2.301
+44.243.180.138 - - [16/Nov/2025:05:02:01 -0300] "GET /info.php.orig HTTP/1.1" 301 5 "-" "python-httpx/0.24.1" MISS 2.391
+44.243.180.138 - - [16/Nov/2025:05:02:01 -0300] "GET /test.php.bak HTTP/1.1" 301 5 "-" "python-httpx/0.24.1" MISS 2.402
+44.243.180.138 - - [16/Nov/2025:05:02:01 -0300] "GET /phpinfo.php.old HTTP/1.1" 301 5 "-" "python-httpx/0.24.1" MISS 2.492
+44.243.180.138 - - [16/Nov/2025:05:02:01 -0300] "GET /php_info.php.save HTTP/1.1" 301 5 "-" "python-httpx/0.24.1" MISS 2.410
+44.243.180.138 - - [16/Nov/2025:05:02:01 -0300] "GET /phpinfo.php.backup HTTP/1.1" 301 5 "-" "python-httpx/0.24.1" MISS 2.315
+44.243.180.138 - - [16/Nov/2025:05:02:01 -0300] "GET /info.php.backup HTTP/1.1" 301 5 "-" "python-httpx/0.24.1" MISS 2.384
+44.243.180.138 - - [16/Nov/2025:05:02:01 -0300] "GET /phpinfo.php~ HTTP/1.1" 301 5 "-" "python-httpx/0.24.1" MISS 2.273
+44.243.180.138 - - [16/Nov/2025:05:02:08 -0300] "GET /admin/phpinfo.php HTTP/1.1" 404 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:02:08 -0300] "GET /test/phpinfo.php HTTP/1.1" 404 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:02:08 -0300] "GET /admin/info.php HTTP/1.1" 404 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:02:08 -0300] "GET /test/info.php HTTP/1.1" 404 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:02:08 -0300] "GET /dev/info.php HTTP/1.1" 404 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:02:08 -0300] "GET /dev/phpinfo.php HTTP/1.1" 404 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:02:08 -0300] "GET /tmp/phpinfo.php HTTP/1.1" 404 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:02:08 -0300] "GET /tmp/info.php HTTP/1.1" 404 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:02:08 -0300] "GET /includes/phpinfo.php HTTP/1.1" 404 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:02:08 -0300] "GET /includes/info.php HTTP/1.1" 404 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:02:08 -0300] "GET /scripts/phpinfo.php HTTP/1.1" 404 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:02:08 -0300] "GET /scripts/info.php HTTP/1.1" 404 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:02:08 -0300] "GET /public/phpinfo.php HTTP/1.1" 404 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:02:08 -0300] "GET /web/phpinfo.php HTTP/1.1" 404 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:02:09 -0300] "GET /.git/config HTTP/1.1" 403 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:02:09 -0300] "GET /site/phpinfo.php HTTP/1.1" 404 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:02:09 -0300] "GET /www/info.php HTTP/1.1" 404 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:02:09 -0300] "GET /public/info.php HTTP/1.1" 404 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:02:09 -0300] "GET /site/info.php HTTP/1.1" 404 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:02:09 -0300] "GET /cgi-bin/phpinfo.php HTTP/1.1" 404 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:02:09 -0300] "GET /www/phpinfo.php HTTP/1.1" 404 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:02:09 -0300] "GET /web/info.php HTTP/1.1" 404 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:02:09 -0300] "GET /cgi-bin/info.php HTTP/1.1" 404 146 "-" "python-httpx/0.24.1" - 0.000
+44.243.180.138 - - [16/Nov/2025:05:02:09 -0300] "GET /phpinfo.php.tmp HTTP/1.1" 301 5 "-" "python-httpx/0.24.1" MISS 0.631
+44.243.180.138 - - [16/Nov/2025:05:02:09 -0300] "GET /phpinfo.php.swp HTTP/1.1" 301 5 "-" "python-httpx/0.24.1" MISS 1.295
+44.243.180.138 - - [16/Nov/2025:05:02:09 -0300] "GET /php_info.php.swp HTTP/1.1" 301 5 "-" "python-httpx/0.24.1" MISS 1.448
+44.243.180.138 - - [16/Nov/2025:05:02:10 -0300] "GET /admin/phpinfo.php.save HTTP/1.1" 301 5 "-" "python-httpx/0.24.1" MISS 1.729
+44.243.180.138 - - [16/Nov/2025:05:02:10 -0300] "GET /admin/info.php.save HTTP/1.1" 301 5 "-" "python-httpx/0.24.1" MISS 1.717
+44.243.180.138 - - [16/Nov/2025:05:02:10 -0300] "GET /dev/phpinfo.php.save HTTP/1.1" 301 5 "-" "python-httpx/0.24.1" MISS 1.689
+44.243.180.138 - - [16/Nov/2025:05:02:10 -0300] "GET /test/phpinfo.php.save HTTP/1.1" 301 5 "-" "python-httpx/0.24.1" MISS 1.965
+44.243.180.138 - - [16/Nov/2025:05:02:10 -0300] "GET /info.php.swp HTTP/1.1" 301 5 "-" "python-httpx/0.24.1" MISS 2.099
+44.243.180.138 - - [16/Nov/2025:05:02:10 -0300] "GET /site/phpinfo.php.save HTTP/1.1" 301 5 "-" "python-httpx/0.24.1" MISS 1.678
+44.243.180.138 - - [16/Nov/2025:05:02:10 -0300] "GET /cgi-bin/info.php.save HTTP/1.1" 301 5 "-" "python-httpx/0.24.1" MISS 1.863
+44.243.180.138 - - [16/Nov/2025:05:02:10 -0300] "GET /info.php.tmp HTTP/1.1" 301 5 "-" "python-httpx/0.24.1" MISS 2.321
+44.243.180.138 - - [16/Nov/2025:05:02:10 -0300] "GET /includes/phpinfo.php.save HTTP/1.1" 301 5 "-" "python-httpx/0.24.1" MISS 2.094
+44.243.180.138 - - [16/Nov/2025:05:02:11 -0300] "GET /scripts/phpinfo.php.save HTTP/1.1" 301 5 "-" "python-httpx/0.24.1" MISS 2.078
+44.243.180.138 - - [16/Nov/2025:05:02:11 -0300] "GET /www/phpinfo.php.save HTTP/1.1" 301 5 "-" "python-httpx/0.24.1" MISS 2.259
+44.243.180.138 - - [16/Nov/2025:05:02:11 -0300] "GET /scripts/info.php.save HTTP/1.1" 301 5 "-" "python-httpx/0.24.1" MISS 2.204
+44.243.180.138 - - [16/Nov/2025:05:02:11 -0300] "GET /cgi-bin/phpinfo.php.save HTTP/1.1" 301 5 "-" "python-httpx/0.24.1" MISS 2.311
+44.243.180.138 - - [16/Nov/2025:05:02:11 -0300] "GET /public/info.php.save HTTP/1.1" 301 5 "-" "python-httpx/0.24.1" MISS 2.402
+44.243.180.138 - - [16/Nov/2025:05:02:11 -0300] "GET /php_info.php.tmp HTTP/1.1" 301 5 "-" "python-httpx/0.24.1" MISS 2.751
+44.243.180.138 - - [16/Nov/2025:05:02:11 -0300] "GET /tmp/info.php.save HTTP/1.1" 301 5 "-" "python-httpx/0.24.1" MISS 2.626
+44.243.180.138 - - [16/Nov/2025:05:02:11 -0300] "GET /www/info.php.save HTTP/1.1" 301 5 "-" "python-httpx/0.24.1" MISS 2.524
+44.243.180.138 - - [16/Nov/2025:05:02:11 -0300] "GET /test.php.swp HTTP/1.1" 301 5 "-" "python-httpx/0.24.1" MISS 2.948
+44.243.180.138 - - [16/Nov/2025:05:02:11 -0300] "GET /test/info.php.save HTTP/1.1" 301 5 "-" "python-httpx/0.24.1" MISS 2.751
+44.243.180.138 - - [16/Nov/2025:05:02:11 -0300] "GET /includes/info.php.save HTTP/1.1" 301 5 "-" "python-httpx/0.24.1" MISS 2.686
+44.243.180.138 - - [16/Nov/2025:05:02:11 -0300] "GET /test.php.tmp HTTP/1.1" 301 5 "-" "python-httpx/0.24.1" MISS 2.991
+44.243.180.138 - - [16/Nov/2025:05:02:11 -0300] "GET /web/phpinfo.php.save HTTP/1.1" 301 5 "-" "python-httpx/0.24.1" MISS 2.572
+44.243.180.138 - - [16/Nov/2025:05:02:11 -0300] "GET /dev/info.php.save HTTP/1.1" 301 5 "-" "python-httpx/0.24.1" MISS 2.810
+44.243.180.138 - - [16/Nov/2025:05:02:11 -0300] "GET /tmp/phpinfo.php.save HTTP/1.1" 301 5 "-" "python-httpx/0.24.1" MISS 2.758
+44.243.180.138 - - [16/Nov/2025:05:02:11 -0300] "GET /web/info.php.save HTTP/1.1" 301 5 "-" "python-httpx/0.24.1" MISS 2.638
+44.243.180.138 - - [16/Nov/2025:05:02:11 -0300] "GET /site/info.php.save HTTP/1.1" 301 5 "-" "python-httpx/0.24.1" MISS 2.506
+44.243.180.138 - - [16/Nov/2025:05:02:11 -0300] "GET /public/phpinfo.php.save HTTP/1.1" 301 5 "-" "python-httpx/0.24.1" MISS 2.634
+209.141.52.237 - - [16/Nov/2025:05:14:02 -0300] "GET /wp-login.php HTTP/1.1" 200 2719 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36" BYPASS 0.416
+209.141.52.237 - - [16/Nov/2025:05:14:02 -0300] "POST /wp-login.php HTTP/1.1" 200 2853 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36" - 0.260
+205.185.120.218 - - [16/Nov/2025:05:14:05 -0300] "GET /wp-login.php HTTP/1.1" 200 2719 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:30.0) Gecko/20100101 Firefox/30.0" BYPASS 0.257
+205.185.120.218 - - [16/Nov/2025:05:14:09 -0300] "POST /wp-login.php HTTP/1.1" 200 2851 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:30.0) Gecko/20100101 Firefox/30.0" - 0.259
+205.185.120.118 - - [16/Nov/2025:05:17:11 -0300] "GET /wp-login.php HTTP/1.1" 200 8789 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/6.1.5 Safari/537.77.4" BYPASS 0.252
+205.185.120.118 - - [16/Nov/2025:05:17:19 -0300] "POST /wp-login.php HTTP/1.1" 200 9253 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/6.1.5 Safari/537.77.4" - 0.292
+107.189.13.175 - - [16/Nov/2025:05:19:44 -0300] "GET /wp-login.php HTTP/1.1" 200 2719 "https://www.bing.com/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.90 Safari/537.36 Edg/118.0.2088.76" BYPASS 0.299
+107.189.13.175 - - [16/Nov/2025:05:19:45 -0300] "POST /wp-login.php HTTP/1.1" 200 2853 "https://www.bing.com/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.90 Safari/537.36 Edg/118.0.2088.76" - 0.271
+209.141.54.165 - - [16/Nov/2025:05:23:08 -0300] "GET /wp-login.php HTTP/1.1" 200 2719 "https://www.bing.com/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" BYPASS 0.264
+209.141.54.165 - - [16/Nov/2025:05:23:10 -0300] "POST /wp-login.php HTTP/1.1" 200 2851 "https://www.bing.com/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" - 0.324
+74.7.227.137 - - [16/Nov/2025:05:23:34 -0300] "GET / HTTP/2.0" 200 12361 "-" "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.3; +https://openai.com/gptbot)" EXPIRED 0.400
+74.7.227.137 - - [16/Nov/2025:05:23:37 -0300] "GET /feed/ HTTP/2.0" 200 5921 "-" "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.3; +https://openai.com/gptbot)" BYPASS 0.276
+45.148.10.152 - - [16/Nov/2025:05:23:48 -0300] "GET /ses.php HTTP/1.1" 404 146 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1 Safari/605.1.15" - 0.000
+74.7.227.137 - - [16/Nov/2025:05:23:51 -0300] "GET /wp-json/wp/v2/pages/553 HTTP/2.0" 200 7488 "-" "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.3; +https://openai.com/gptbot)" MISS 0.439
+74.7.227.137 - - [16/Nov/2025:05:23:52 -0300] "GET /wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.colonia.estudiantesdelaplata.com%2F HTTP/2.0" 200 1052 "-" "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.3; +https://openai.com/gptbot)" BYPASS 0.344
+74.7.227.137 - - [16/Nov/2025:05:23:54 -0300] "GET /xmlrpc.php?rsd HTTP/2.0" 200 319 "-" "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.3; +https://openai.com/gptbot)" BYPASS 0.263
+74.7.227.137 - - [16/Nov/2025:05:23:55 -0300] "GET /comments/feed/ HTTP/2.0" 200 1810 "-" "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.3; +https://openai.com/gptbot)" BYPASS 0.269
+74.7.227.137 - - [16/Nov/2025:05:23:56 -0300] "GET /wp-includes/js/wp-emoji-release.min.js?ver=6.4.7 HTTP/2.0" 200 5035 "-" "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.3; +https://openai.com/gptbot)" - 0.000
+74.7.227.137 - - [16/Nov/2025:05:23:57 -0300] "GET /wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1 HTTP/2.0" 200 4872 "-" "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.3; +https://openai.com/gptbot)" - 0.000
+74.7.227.137 - - [16/Nov/2025:05:23:58 -0300] "GET /wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.17.2 HTTP/2.0" 200 2213 "-" "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.3; +https://openai.com/gptbot)" - 0.000
+74.7.227.137 - - [16/Nov/2025:05:23:59 -0300] "GET /wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.17.2 HTTP/2.0" 200 16918 "-" "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.3; +https://openai.com/gptbot)" - 0.000
+74.7.227.137 - - [16/Nov/2025:05:23:59 -0300] "GET /wp-json/oembed/1.0/embed?format=xml&url=https%3A%2F%2Fwww.colonia.estudiantesdelaplata.com%2F HTTP/2.0" 200 1089 "-" "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.3; +https://openai.com/gptbot)" BYPASS 0.265
+74.7.227.137 - - [16/Nov/2025:05:24:00 -0300] "GET /wp-includes/js/jquery/jquery.min.js?ver=3.7.1 HTTP/2.0" 200 30419 "-" "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.3; +https://openai.com/gptbot)" - 0.000
+74.7.227.137 - - [16/Nov/2025:05:24:01 -0300] "GET /wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.17.2 HTTP/2.0" 200 12234 "-" "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.3; +https://openai.com/gptbot)" - 0.000
+74.7.227.137 - - [16/Nov/2025:05:24:01 -0300] "GET /wp-includes/js/jquery/ui/core.min.js?ver=1.13.2 HTTP/2.0" 200 7099 "-" "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.3; +https://openai.com/gptbot)" - 0.000
+45.61.149.134 - - [16/Nov/2025:05:24:02 -0300] "GET / HTTP/1.1" 200 12374 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" HIT 0.000
+74.7.227.137 - - [16/Nov/2025:05:24:02 -0300] "GET /wp-includes/js/',b,' HTTP/2.0" 301 0 "-" "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.3; +https://openai.com/gptbot)" MISS 0.254
+74.7.227.137 - - [16/Nov/2025:05:24:03 -0300] "GET /wp-includes/js/,b, HTTP/2.0" 301 0 "-" "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.3; +https://openai.com/gptbot)" MISS 0.296
+74.7.227.137 - - [16/Nov/2025:05:24:03 -0300] "GET /wp-includes/js/,b HTTP/2.0" 404 5214 "-" "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.3; +https://openai.com/gptbot)" MISS 0.276
+74.7.227.137 - - [16/Nov/2025:05:24:03 -0300] "GET /wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2 HTTP/2.0" 200 2995 "-" "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.3; +https://openai.com/gptbot)" - 0.000
+45.61.149.134 - - [16/Nov/2025:05:24:04 -0300] "GET /wp-login.php HTTP/1.1" 200 2719 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" BYPASS 0.258
+74.7.227.137 - - [16/Nov/2025:05:24:04 -0300] "GET /wp-content/themes/hello-elementor/assets/js/hello-frontend.min.js?ver=1.0.0 HTTP/2.0" 200 620 "-" "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.3; +https://openai.com/gptbot)" - 0.000
+45.61.149.134 - - [16/Nov/2025:05:24:05 -0300] "POST /wp-login.php HTTP/1.1" 200 2851 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" - 0.252
+74.7.227.137 - - [16/Nov/2025:05:24:05 -0300] "GET /wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.8.2 HTTP/2.0" 200 3182 "-" "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.3; +https://openai.com/gptbot)" - 0.000
+107.189.7.132 - - [16/Nov/2025:05:24:05 -0300] "GET / HTTP/1.1" 200 12374 "https://www.google.com/" "Mozilla/5.0 (Android 14; Mobile; rv:131.0) Gecko/131.0 Firefox/131.0" MISS 0.395
+74.7.227.137 - - [16/Nov/2025:05:24:05 -0300] "GET /wp-content/themes/hello-elementor/theme.min.css?ver=2.9.0 HTTP/2.0" 200 2490 "-" "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.3; +https://openai.com/gptbot)" - 0.000
+74.7.227.137 - - [16/Nov/2025:05:24:06 -0300] "GET /wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.8.2 HTTP/2.0" 200 4182 "-" "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.3; +https://openai.com/gptbot)" - 0.000
+107.189.7.132 - - [16/Nov/2025:05:24:06 -0300] "GET /wp-login.php HTTP/1.1" 200 2719 "https://www.google.com/" "Mozilla/5.0 (Android 14; Mobile; rv:131.0) Gecko/131.0 Firefox/131.0" BYPASS 0.269
+74.7.227.137 - - [16/Nov/2025:05:24:07 -0300] "GET /wp-content/themes/hello-elementor/style.min.css?ver=2.9.0 HTTP/2.0" 200 1873 "-" "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.3; +https://openai.com/gptbot)" - 0.000
+74.7.227.137 - - [16/Nov/2025:05:24:08 -0300] "GET /author/egsmestudiantesdelaplata-com/ HTTP/2.0" 200 5229 "-" "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.3; +https://openai.com/gptbot)" MISS 0.312
+107.189.7.132 - - [16/Nov/2025:05:24:08 -0300] "POST /wp-login.php HTTP/1.1" 200 2852 "https://www.google.com/" "Mozilla/5.0 (Android 14; Mobile; rv:131.0) Gecko/131.0 Firefox/131.0" - 0.253
+74.7.227.137 - - [16/Nov/2025:05:24:08 -0300] "GET /wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.23.0 HTTP/2.0" 200 4009 "-" "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.3; +https://openai.com/gptbot)" - 0.000
+74.7.227.137 - - [16/Nov/2025:05:24:09 -0300] "GET /wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.17.2 HTTP/2.0" 200 13773 "-" "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.3; +https://openai.com/gptbot)" - 0.000
+74.7.227.137 - - [16/Nov/2025:05:24:10 -0300] "GET /wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.8.2 HTTP/2.0" 200 1004 "-" "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.3; +https://openai.com/gptbot)" - 0.000
+74.7.227.137 - - [16/Nov/2025:05:24:11 -0300] "GET /wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5 HTTP/2.0" 200 4583 "-" "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.3; +https://openai.com/gptbot)" - 0.000
+74.7.227.137 - - [16/Nov/2025:05:24:11 -0300] "GET /wp-content/uploads/elementor/css/global.css?ver=1699452484 HTTP/2.0" 200 839 "-" "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.3; +https://openai.com/gptbot)" - 0.000
+74.7.227.137 - - [16/Nov/2025:05:24:12 -0300] "GET /wp-content/themes/hello-elementor/assets/js/hello-frontend.min.js.map HTTP/2.0" 404 5214 "-" "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.3; +https://openai.com/gptbot)" MISS 0.343
+74.7.227.137 - - [16/Nov/2025:05:24:13 -0300] "GET /wp-content/uploads/elementor/css/post-553.css?ver=1732822733 HTTP/2.0" 200 2184 "-" "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.3; +https://openai.com/gptbot)" - 0.000
+74.7.227.137 - - [16/Nov/2025:05:24:14 -0300] "GET /wp-content/uploads/elementor/css/post-294.css?ver=1699452484 HTTP/2.0" 200 363 "-" "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.3; +https://openai.com/gptbot)" - 0.000
+74.7.227.137 - - [16/Nov/2025:05:24:14 -0300] "GET /wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.23.0 HTTP/2.0" 200 94720 "-" "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.3; +https://openai.com/gptbot)" - 0.000
+74.7.227.137 - - [16/Nov/2025:05:24:15 -0300] "GET /author/egsmestudiantesdelaplata-com/feed/ HTTP/2.0" 200 1228 "-" "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.3; +https://openai.com/gptbot)" BYPASS 0.271
+74.7.227.137 - - [16/Nov/2025:05:24:16 -0300] "GET /wp-json/wp/v2/users/3 HTTP/2.0" 200 287 "-" "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.3; +https://openai.com/gptbot)" MISS 0.279
+74.7.227.137 - - [16/Nov/2025:05:24:20 -0300] "GET /wp-includes/css/dist/block-library/style.min.css?ver=6.4.7 HTTP/2.0" 200 14500 "-" "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.3; +https://openai.com/gptbot)" - 0.000
+107.189.30.207 - - [16/Nov/2025:05:24:29 -0300] "GET /wp-login.php HTTP/1.1" 200 2719 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.117 Safari/537.36" BYPASS 0.253
+107.189.30.207 - - [16/Nov/2025:05:24:31 -0300] "POST /wp-login.php HTTP/1.1" 200 2853 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.117 Safari/537.36" - 0.254
+104.244.74.116 - - [16/Nov/2025:05:28:48 -0300] "GET /wp-login.php HTTP/1.1" 200 2719 "https://www.google.com/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" BYPASS 0.260
+104.244.74.116 - - [16/Nov/2025:05:28:50 -0300] "POST /wp-login.php HTTP/1.1" 200 2853 "https://www.google.com/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" - 0.257
+45.61.149.134 - - [16/Nov/2025:05:34:08 -0300] "GET / HTTP/1.1" 200 12374 "https://www.bing.com/" "Mozilla/5.0 (Windows NT 11.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0" EXPIRED 0.415
+45.61.149.134 - - [16/Nov/2025:05:34:09 -0300] "GET /wp-login.php HTTP/1.1" 200 2719 "https://www.bing.com/" "Mozilla/5.0 (Windows NT 11.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0" BYPASS 0.252
+45.61.149.134 - - [16/Nov/2025:05:34:10 -0300] "POST /wp-login.php HTTP/1.1" 200 2853 "https://www.bing.com/" "Mozilla/5.0 (Windows NT 11.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0" - 0.254
+194.187.178.123 - - [16/Nov/2025:05:42:31 -0300] "GET / HTTP/1.1" 400 248 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0" - 0.000
+194.187.178.232 - - [16/Nov/2025:05:42:31 -0300] "GET /favicon.ico HTTP/1.1" 400 248 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0" - 0.000
+74.7.227.137 - - [16/Nov/2025:05:44:43 -0300] "GET /wp-content/uploads/2024/11/Anexo-1-y-2-ficha-de-inscripcion.pdf HTTP/2.0" 200 151253 "-" "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; GPTBot/1.3; +https://openai.com/gptbot)" - 0.022
+104.209.148.247 - - [16/Nov/2025:06:03:28 -0300] "POST /wp-cron.php?doing_wp_cron=1763283808.4050309658050537109375 HTTP/1.1" 200 31 "-" "WordPress/6.4.7; https://www.colonia.estudiantesdelaplata.com" - 0.001
+45.61.184.55 - - [16/Nov/2025:06:03:28 -0300] "GET /wp-login.php HTTP/1.1" 200 8789 "-" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36" BYPASS 0.285
+45.61.184.55 - - [16/Nov/2025:06:03:28 -0300] "POST /wp-login.php HTTP/1.1" 200 9253 "-" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36" - 0.260
+181.231.176.106 - - [16/Nov/2025:06:06:58 -0300] "GET / HTTP/2.0" 200 12360 "https://estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36" EXPIRED 0.383
+181.231.176.106 - - [16/Nov/2025:06:06:58 -0300] "GET /wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.8.2 HTTP/2.0" 200 1004 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36" - 0.000
+181.231.176.106 - - [16/Nov/2025:06:06:58 -0300] "GET /wp-content/themes/hello-elementor/style.min.css?ver=2.9.0 HTTP/2.0" 200 1873 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36" - 0.000
+181.231.176.106 - - [16/Nov/2025:06:06:58 -0300] "GET /wp-content/themes/hello-elementor/theme.min.css?ver=2.9.0 HTTP/2.0" 200 2490 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36" - 0.000
+181.231.176.106 - - [16/Nov/2025:06:06:58 -0300] "GET /wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.17.2 HTTP/2.0" 200 13773 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36" - 0.000
+181.231.176.106 - - [16/Nov/2025:06:06:58 -0300] "GET /wp-content/uploads/elementor/css/post-294.css?ver=1699452484 HTTP/2.0" 200 363 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36" - 0.000
+181.231.176.106 - - [16/Nov/2025:06:06:58 -0300] "GET /wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.23.0 HTTP/2.0" 200 4009 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36" - 0.000
+181.231.176.106 - - [16/Nov/2025:06:06:58 -0300] "GET /wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5 HTTP/2.0" 200 4583 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36" - 0.000
+181.231.176.106 - - [16/Nov/2025:06:06:58 -0300] "GET /wp-content/uploads/elementor/css/global.css?ver=1699452484 HTTP/2.0" 200 839 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36" - 0.000
+181.231.176.106 - - [16/Nov/2025:06:06:58 -0300] "GET /wp-content/uploads/elementor/css/post-553.css?ver=1732822733 HTTP/2.0" 200 2184 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36" - 0.000
+181.231.176.106 - - [16/Nov/2025:06:06:58 -0300] "GET /wp-includes/js/jquery/jquery.min.js?ver=3.7.1 HTTP/2.0" 200 30419 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36" - 0.000
+181.231.176.106 - - [16/Nov/2025:06:06:58 -0300] "GET /wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1 HTTP/2.0" 200 4872 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36" - 0.000
+181.231.176.106 - - [16/Nov/2025:06:06:58 -0300] "GET /wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.8.2 HTTP/2.0" 200 3182 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36" - 0.000
+181.231.176.106 - - [16/Nov/2025:06:06:58 -0300] "GET /wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.8.2 HTTP/2.0" 200 4182 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36" - 0.000
+181.231.176.106 - - [16/Nov/2025:06:06:59 -0300] "GET /wp-content/themes/hello-elementor/assets/js/hello-frontend.min.js?ver=1.0.0 HTTP/2.0" 200 620 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36" - 0.000
+181.231.176.106 - - [16/Nov/2025:06:06:59 -0300] "GET /wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.17.2 HTTP/2.0" 200 2213 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36" - 0.000
+181.231.176.106 - - [16/Nov/2025:06:06:59 -0300] "GET /wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.17.2 HTTP/2.0" 200 16918 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36" - 0.000
+181.231.176.106 - - [16/Nov/2025:06:06:59 -0300] "GET /wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2 HTTP/2.0" 200 2995 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36" - 0.000
+181.231.176.106 - - [16/Nov/2025:06:06:59 -0300] "GET /wp-includes/js/jquery/ui/core.min.js?ver=1.13.2 HTTP/2.0" 200 7099 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36" - 0.000
+181.231.176.106 - - [16/Nov/2025:06:06:59 -0300] "GET /wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.17.2 HTTP/2.0" 200 12234 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36" - 0.000
+181.231.176.106 - - [16/Nov/2025:06:06:59 -0300] "GET /wp-content/plugins/elementor/assets/js/text-editor.2c35aafbe5bf0e127950.bundle.min.js HTTP/2.0" 200 665 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36" - 0.000
+181.231.176.106 - - [16/Nov/2025:06:06:59 -0300] "GET /wp-content/plugins/elementor/assets/js/tabs.c2af5be7f9cb3cdcf3d5.bundle.min.js HTTP/2.0" 200 1382 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36" - 0.000
+45.148.10.152 - - [16/Nov/2025:06:09:20 -0300] "GET /backend/.env HTTP/1.1" 403 548 "-" "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" - 0.000
+54.209.176.124 - - [16/Nov/2025:06:45:16 -0300] "GET / HTTP/1.1" 200 12374 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" MISS 0.398
+45.148.10.152 - - [16/Nov/2025:06:54:32 -0300] "GET /admin/.env HTTP/1.1" 403 548 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" - 0.000
+104.209.148.247 - - [16/Nov/2025:07:22:00 -0300] "POST /wp-cron.php?doing_wp_cron=1763288520.7567360401153564453125 HTTP/1.1" 200 31 "-" "WordPress/6.4.7; https://www.colonia.estudiantesdelaplata.com" - 0.001
+107.189.7.132 - - [16/Nov/2025:07:22:00 -0300] "GET / HTTP/1.1" 200 12374 "-" "Mozilla/5.0 (Linux; Android 12; Pixel 6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36" MISS 0.428
+107.189.7.132 - - [16/Nov/2025:07:22:02 -0300] "GET /wp-login.php HTTP/1.1" 200 2719 "-" "Mozilla/5.0 (Linux; Android 12; Pixel 6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36" BYPASS 0.256
+107.189.7.132 - - [16/Nov/2025:07:22:03 -0300] "POST /wp-login.php HTTP/1.1" 200 2852 "-" "Mozilla/5.0 (Linux; Android 12; Pixel 6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36" - 0.255
+104.244.73.57 - - [16/Nov/2025:07:27:22 -0300] "GET /wp-login.php HTTP/1.1" 200 2719 "https://duckduckgo.com/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.90 Safari/537.36 Edg/118.0.2088.76" BYPASS 0.253
+104.244.73.57 - - [16/Nov/2025:07:27:24 -0300] "POST /wp-login.php HTTP/1.1" 200 2853 "https://duckduckgo.com/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.90 Safari/537.36 Edg/118.0.2088.76" - 0.294
+209.141.54.165 - - [16/Nov/2025:07:27:51 -0300] "GET /wp-login.php HTTP/1.1" 200 2719 "https://www.yahoo.com/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" BYPASS 0.255
+209.141.54.165 - - [16/Nov/2025:07:27:52 -0300] "POST /wp-login.php HTTP/1.1" 200 2851 "https://www.yahoo.com/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" - 0.254
+199.195.251.69 - - [16/Nov/2025:07:28:08 -0300] "GET / HTTP/1.1" 200 12374 "https://www.google.com/" "Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36" HIT 0.000
+199.195.251.69 - - [16/Nov/2025:07:28:09 -0300] "GET /wp-login.php HTTP/1.1" 200 2719 "https://www.google.com/" "Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36" BYPASS 0.247
+199.195.251.69 - - [16/Nov/2025:07:28:11 -0300] "POST /wp-login.php HTTP/1.1" 200 2853 "https://www.google.com/" "Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Mobile Safari/537.36" - 0.278
+107.189.13.175 - - [16/Nov/2025:07:32:24 -0300] "GET /wp-login.php HTTP/1.1" 200 2719 "https://duckduckgo.com/" "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1" BYPASS 0.263
+107.189.13.175 - - [16/Nov/2025:07:32:25 -0300] "POST /wp-login.php HTTP/1.1" 200 2851 "https://duckduckgo.com/" "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1" - 0.257
+198.98.53.242 - - [16/Nov/2025:07:34:14 -0300] "GET /wp-login.php HTTP/1.1" 200 2719 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Firefox/24.0" BYPASS 0.249
+198.98.53.242 - - [16/Nov/2025:07:34:14 -0300] "POST /wp-login.php HTTP/1.1" 200 2851 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Firefox/24.0" - 0.258
+111.225.148.212 - - [16/Nov/2025:07:37:28 -0300] "GET / HTTP/2.0" 200 12361 "-" "Mozilla/5.0 (Linux; Android 5.0) AppleWebKit/537.36 (KHTML, like Gecko) Mobile Safari/537.36 (compatible; Bytespider; https://zhanzhang.toutiao.com/)" EXPIRED 0.393
+107.189.30.207 - - [16/Nov/2025:07:37:40 -0300] "GET /wp-login.php HTTP/1.1" 200 2719 "https://duckduckgo.com/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.90 Safari/537.36 Edg/118.0.2088.76" BYPASS 0.255
+107.189.30.207 - - [16/Nov/2025:07:37:41 -0300] "POST /wp-login.php HTTP/1.1" 200 2853 "https://duckduckgo.com/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.90 Safari/537.36 Edg/118.0.2088.76" - 0.255
+205.185.120.118 - - [16/Nov/2025:07:38:06 -0300] "GET /wp-login.php HTTP/1.1" 200 8789 "-" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36" BYPASS 0.253
+205.185.120.118 - - [16/Nov/2025:07:38:08 -0300] "POST /wp-login.php HTTP/1.1" 200 9253 "-" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36" - 0.279
+45.148.10.152 - - [16/Nov/2025:07:39:25 -0300] "GET /app.yml HTTP/1.1" 404 5227 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0" MISS 0.296
+205.185.114.63 - - [16/Nov/2025:07:41:03 -0300] "GET /wp-login.php HTTP/1.1" 200 2719 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10) AppleWebKit/600.1.3 (KHTML, like Gecko) Version/8.0 Safari/600.1.3" BYPASS 0.254
+205.185.114.63 - - [16/Nov/2025:07:41:04 -0300] "POST /wp-login.php HTTP/1.1" 200 2852 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10) AppleWebKit/600.1.3 (KHTML, like Gecko) Version/8.0 Safari/600.1.3" - 0.264
+104.209.148.247 - - [16/Nov/2025:08:03:13 -0300] "POST /wp-cron.php?doing_wp_cron=1763290993.1749529838562011718750 HTTP/1.1" 200 31 "-" "WordPress/6.4.7; https://www.colonia.estudiantesdelaplata.com" - 0.001
+107.189.4.81 - - [16/Nov/2025:08:03:13 -0300] "GET /wp-login.php HTTP/1.1" 200 2719 "https://www.yahoo.com/" "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1" BYPASS 0.291
+107.189.4.81 - - [16/Nov/2025:08:03:14 -0300] "POST /wp-login.php HTTP/1.1" 200 2851 "https://www.yahoo.com/" "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1" - 0.270
+45.61.187.69 - - [16/Nov/2025:08:05:46 -0300] "GET /wp-login.php HTTP/1.1" 200 2719 "https://duckduckgo.com/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.90 Safari/537.36 Edg/118.0.2088.76" BYPASS 0.258
+45.61.187.69 - - [16/Nov/2025:08:05:47 -0300] "POST /wp-login.php HTTP/1.1" 200 2853 "https://duckduckgo.com/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.90 Safari/537.36 Edg/118.0.2088.76" - 0.280
+161.118.199.184 - - [16/Nov/2025:08:08:45 -0300] "GET / HTTP/1.1" 301 5 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 Mobile/15E148" MISS 0.257
+161.118.199.184 - - [16/Nov/2025:08:08:46 -0300] "GET / HTTP/2.0" 200 12360 "http://colonia.estudiantesdelaplata.com" "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 Mobile/15E148" EXPIRED 0.400
+161.118.199.184 - - [16/Nov/2025:08:08:47 -0300] "GET / HTTP/1.1" 301 5 "-" "Go-http-client/1.1" MISS 0.258
+161.118.199.184 - - [16/Nov/2025:08:08:47 -0300] "GET / HTTP/2.0" 200 12360 "http://colonia.estudiantesdelaplata.com" "Go-http-client/2.0" MISS 0.482
+161.118.199.184 - - [16/Nov/2025:08:08:48 -0300] "GET /wp-login.php HTTP/1.1" 302 5 "-" "Mozilla/5.0 (Android 13; Mobile; rv:117.0) Gecko/117.0 Firefox/117.0" BYPASS 0.308
+161.118.199.184 - - [16/Nov/2025:08:08:48 -0300] "GET /wp-admin/ HTTP/2.0" 302 0 "http://colonia.estudiantesdelaplata.com/wp-login.php" "Mozilla/5.0 (Android 13; Mobile; rv:117.0) Gecko/117.0 Firefox/117.0" BYPASS 0.319
+161.118.199.184 - - [16/Nov/2025:08:08:49 -0300] "GET /wp-login.php?redirect_to=https%3A%2F%2Fwww.colonia.estudiantesdelaplata.com%2Fwp-admin%2F&reauth=1 HTTP/2.0" 200 2711 "https://www.colonia.estudiantesdelaplata.com/wp-admin/" "Mozilla/5.0 (Android 13; Mobile; rv:117.0) Gecko/117.0 Firefox/117.0" BYPASS 0.257
+161.118.199.184 - - [16/Nov/2025:08:08:50 -0300] "GET /wp-admin/ HTTP/1.1" 302 5 "-" "Mozilla/5.0 (X11; Linux x86_64) Gecko/20100101 Firefox/117.0" BYPASS 0.277
+161.118.199.184 - - [16/Nov/2025:08:08:51 -0300] "GET /wp-admin/ HTTP/2.0" 302 0 "http://colonia.estudiantesdelaplata.com/wp-admin/" "Mozilla/5.0 (X11; Linux x86_64) Gecko/20100101 Firefox/117.0" BYPASS 0.288
+161.118.199.184 - - [16/Nov/2025:08:08:51 -0300] "GET /wp-login.php?redirect_to=https%3A%2F%2Fcolonia.estudiantesdelaplata.com%2Fwp-admin%2F&reauth=1 HTTP/2.0" 200 2715 "https://colonia.estudiantesdelaplata.com/wp-admin/" "Mozilla/5.0 (X11; Linux x86_64) Gecko/20100101 Firefox/117.0" BYPASS 0.253
+161.118.199.184 - - [16/Nov/2025:08:08:52 -0300] "GET /administrator/ HTTP/1.1" 301 5 "-" "Mozilla/5.0 (Android 13; Mobile; rv:117.0) Gecko/117.0 Firefox/117.0" MISS 0.270
+161.118.199.184 - - [16/Nov/2025:08:08:53 -0300] "GET /administrator/ HTTP/1.1" 404 5232 "http://colonia.estudiantesdelaplata.com/administrator/" "Mozilla/5.0 (Android 13; Mobile; rv:117.0) Gecko/117.0 Firefox/117.0" MISS 0.344
+161.118.199.184 - - [16/Nov/2025:08:08:53 -0300] "GET /user/login HTTP/1.1" 301 5 "-" "Mozilla/5.0 (iPad; CPU OS 17_4 like Mac OS X) AppleWebKit/605.1.15 Mobile/15E148" MISS 0.267
+161.118.199.184 - - [16/Nov/2025:08:08:54 -0300] "GET /user/login HTTP/1.1" 404 5232 "http://colonia.estudiantesdelaplata.com/user/login" "Mozilla/5.0 (iPad; CPU OS 17_4 like Mac OS X) AppleWebKit/605.1.15 Mobile/15E148" MISS 0.298
+161.118.199.184 - - [16/Nov/2025:08:08:55 -0300] "GET /admin HTTP/1.1" 301 5 "-" "Mozilla/5.0 (X11; Linux x86_64) Gecko/20100101 Firefox/117.0" MISS 0.256
+161.118.199.184 - - [16/Nov/2025:08:08:55 -0300] "GET /admin HTTP/1.1" 302 5 "http://colonia.estudiantesdelaplata.com/admin" "Mozilla/5.0 (X11; Linux x86_64) Gecko/20100101 Firefox/117.0" MISS 0.254
+161.118.199.184 - - [16/Nov/2025:08:08:56 -0300] "GET /wp-admin/ HTTP/2.0" 302 0 "http://www.colonia.estudiantesdelaplata.com/admin" "Mozilla/5.0 (X11; Linux x86_64) Gecko/20100101 Firefox/117.0" BYPASS 0.314
+161.118.199.184 - - [16/Nov/2025:08:08:56 -0300] "GET /wp-login.php?redirect_to=https%3A%2F%2Fwww.colonia.estudiantesdelaplata.com%2Fwp-admin%2F&reauth=1 HTTP/2.0" 200 2711 "https://www.colonia.estudiantesdelaplata.com/wp-admin/" "Mozilla/5.0 (X11; Linux x86_64) Gecko/20100101 Firefox/117.0" BYPASS 0.284
+161.118.199.184 - - [16/Nov/2025:08:08:57 -0300] "GET /login HTTP/1.1" 301 5 "-" "Mozilla/5.0 (X11; Linux x86_64) Gecko/20100101 Firefox/117.0" MISS 0.264
+161.118.199.184 - - [16/Nov/2025:08:08:58 -0300] "GET /login HTTP/1.1" 302 5 "http://colonia.estudiantesdelaplata.com/login" "Mozilla/5.0 (X11; Linux x86_64) Gecko/20100101 Firefox/117.0" MISS 0.261
+161.118.199.184 - - [16/Nov/2025:08:08:58 -0300] "GET /wp-login.php HTTP/2.0" 200 2707 "http://www.colonia.estudiantesdelaplata.com/login" "Mozilla/5.0 (X11; Linux x86_64) Gecko/20100101 Firefox/117.0" BYPASS 0.263
+161.118.199.184 - - [16/Nov/2025:08:08:59 -0300] "GET /register HTTP/1.1" 301 5 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 Mobile/15E148" MISS 0.260
+161.118.199.184 - - [16/Nov/2025:08:09:00 -0300] "GET /register HTTP/1.1" 404 5233 "http://colonia.estudiantesdelaplata.com/register" "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 Mobile/15E148" MISS 0.295
+161.118.199.184 - - [16/Nov/2025:08:09:00 -0300] "GET /admin HTTP/1.1" 301 5 "-" "Mozilla/5.0 (X11; Linux x86_64) Gecko/20100101 Firefox/117.0" MISS 0.263
+161.118.199.184 - - [16/Nov/2025:08:09:01 -0300] "GET /admin HTTP/1.1" 302 5 "http://colonia.estudiantesdelaplata.com/admin" "Mozilla/5.0 (X11; Linux x86_64) Gecko/20100101 Firefox/117.0" MISS 0.261
+161.118.199.184 - - [16/Nov/2025:08:09:02 -0300] "GET /wp-admin/ HTTP/2.0" 302 0 "http://www.colonia.estudiantesdelaplata.com/admin" "Mozilla/5.0 (X11; Linux x86_64) Gecko/20100101 Firefox/117.0" BYPASS 0.329
+161.118.199.184 - - [16/Nov/2025:08:09:02 -0300] "GET /wp-login.php?redirect_to=https%3A%2F%2Fwww.colonia.estudiantesdelaplata.com%2Fwp-admin%2F&reauth=1 HTTP/2.0" 200 2711 "https://www.colonia.estudiantesdelaplata.com/wp-admin/" "Mozilla/5.0 (X11; Linux x86_64) Gecko/20100101 Firefox/117.0" BYPASS 0.243
+161.118.199.184 - - [16/Nov/2025:08:09:03 -0300] "GET /login HTTP/1.1" 301 5 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 Mobile/15E148" MISS 0.253
+161.118.199.184 - - [16/Nov/2025:08:09:03 -0300] "GET /login HTTP/1.1" 302 5 "http://colonia.estudiantesdelaplata.com/login" "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 Mobile/15E148" MISS 0.253
+161.118.199.184 - - [16/Nov/2025:08:09:04 -0300] "GET /wp-login.php HTTP/2.0" 200 2707 "http://www.colonia.estudiantesdelaplata.com/login" "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 Mobile/15E148" BYPASS 0.244
+45.61.184.55 - - [16/Nov/2025:08:10:10 -0300] "GET /wp-login.php HTTP/1.1" 200 8789 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.7; rv:31.0) Gecko/20100101 Firefox/31.0" BYPASS 0.262
+45.61.184.55 - - [16/Nov/2025:08:10:10 -0300] "POST /wp-login.php HTTP/1.1" 200 9253 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.7; rv:31.0) Gecko/20100101 Firefox/31.0" - 0.269
+45.61.188.132 - - [16/Nov/2025:08:12:12 -0300] "GET /wp-login.php HTTP/1.1" 200 2719 "-" "Mozilla/5.0 (Windows NT 5.1; rv:30.0) Gecko/20100101 Firefox/30.0" BYPASS 0.260
+45.61.188.132 - - [16/Nov/2025:08:12:12 -0300] "POST /wp-login.php HTTP/1.1" 200 2852 "-" "Mozilla/5.0 (Windows NT 5.1; rv:30.0) Gecko/20100101 Firefox/30.0" - 0.256
+107.189.11.185 - - [16/Nov/2025:08:13:42 -0300] "GET /wp-login.php HTTP/1.1" 200 2719 "https://duckduckgo.com/" "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1" BYPASS 0.268
+107.189.11.185 - - [16/Nov/2025:08:13:44 -0300] "POST /wp-login.php HTTP/1.1" 200 2852 "https://duckduckgo.com/" "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1" - 0.260
+198.98.59.143 - - [16/Nov/2025:08:16:26 -0300] "GET /wp-login.php HTTP/1.1" 200 2719 "https://www.yahoo.com/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" BYPASS 0.502
+198.98.59.143 - - [16/Nov/2025:08:16:28 -0300] "POST /wp-login.php HTTP/1.1" 200 2853 "https://www.yahoo.com/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" - 0.262
+45.148.10.152 - - [16/Nov/2025:08:24:01 -0300] "GET /settings.py HTTP/1.1" 404 5227 "-" "Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" MISS 0.296
+205.185.120.218 - - [16/Nov/2025:08:26:27 -0300] "GET /wp-login.php HTTP/1.1" 200 2719 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36" BYPASS 0.265
+205.185.120.218 - - [16/Nov/2025:08:26:33 -0300] "POST /wp-login.php HTTP/1.1" 200 2851 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36" - 0.260
+45.61.184.55 - - [16/Nov/2025:08:35:03 -0300] "GET /wp-login.php HTTP/1.1" 200 8789 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko" BYPASS 0.253
+45.61.184.55 - - [16/Nov/2025:08:35:03 -0300] "POST /wp-login.php HTTP/1.1" 200 9251 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko" - 0.252
+107.189.14.208 - - [16/Nov/2025:08:42:39 -0300] "GET /wp-login.php HTTP/1.1" 200 8789 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.114 Safari/537.36" BYPASS 0.262
+107.189.14.208 - - [16/Nov/2025:08:42:39 -0300] "POST /wp-login.php HTTP/1.1" 200 9253 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.114 Safari/537.36" - 0.264
+104.244.72.193 - - [16/Nov/2025:08:44:02 -0300] "GET /wp-login.php HTTP/1.1" 200 2719 "https://www.bing.com/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.90 Safari/537.36 Edg/118.0.2088.76" BYPASS 0.257
+104.244.72.193 - - [16/Nov/2025:08:44:03 -0300] "POST /wp-login.php HTTP/1.1" 200 2852 "https://www.bing.com/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.90 Safari/537.36 Edg/118.0.2088.76" - 0.257
+45.61.149.134 - - [16/Nov/2025:08:44:20 -0300] "GET / HTTP/1.1" 200 12374 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0" EXPIRED 0.388
+45.61.149.134 - - [16/Nov/2025:08:44:21 -0300] "GET /wp-login.php HTTP/1.1" 200 2719 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0" BYPASS 0.256
+45.61.149.134 - - [16/Nov/2025:08:44:23 -0300] "POST /wp-login.php HTTP/1.1" 200 2851 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0" - 0.269
+104.244.78.229 - - [16/Nov/2025:08:47:07 -0300] "GET /wp-login.php HTTP/1.1" 200 2719 "https://www.yahoo.com/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.117 Safari/537.36" BYPASS 0.264
+104.244.78.229 - - [16/Nov/2025:08:47:08 -0300] "POST /wp-login.php HTTP/1.1" 200 2853 "https://www.yahoo.com/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.117 Safari/537.36" - 0.259
+107.189.14.25 - - [16/Nov/2025:08:47:14 -0300] "GET /wp-login.php HTTP/1.1" 200 2719 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" BYPASS 0.257
+107.189.14.25 - - [16/Nov/2025:08:47:16 -0300] "POST /wp-login.php HTTP/1.1" 200 2853 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" - 0.276
+198.98.53.242 - - [16/Nov/2025:08:48:36 -0300] "GET /wp-login.php HTTP/1.1" 200 2719 "-" "Mozilla/5.0 (Windows NT 6.1; rv:31.0) Gecko/20100101 Firefox/31.0" BYPASS 0.253
+198.98.53.242 - - [16/Nov/2025:08:48:36 -0300] "POST /wp-login.php HTTP/1.1" 200 2851 "-" "Mozilla/5.0 (Windows NT 6.1; rv:31.0) Gecko/20100101 Firefox/31.0" - 0.261
+107.189.7.132 - - [16/Nov/2025:08:53:24 -0300] "GET / HTTP/1.1" 200 12374 "https://www.baidu.com/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" HIT 0.000
+107.189.7.132 - - [16/Nov/2025:08:53:25 -0300] "GET /wp-login.php HTTP/1.1" 200 2719 "https://www.baidu.com/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" BYPASS 0.259
+107.189.7.132 - - [16/Nov/2025:08:53:26 -0300] "POST /wp-login.php HTTP/1.1" 200 2853 "https://www.baidu.com/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" - 0.261
+205.185.114.63 - - [16/Nov/2025:08:54:08 -0300] "GET /wp-login.php HTTP/1.1" 200 2719 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)" BYPASS 0.283
+205.185.114.63 - - [16/Nov/2025:08:54:09 -0300] "POST /wp-login.php HTTP/1.1" 200 2852 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)" - 0.261
+107.189.4.81 - - [16/Nov/2025:08:55:55 -0300] "GET /wp-login.php HTTP/1.1" 200 2719 "https://www.bing.com/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.117 Safari/537.36" BYPASS 0.264
+107.189.4.81 - - [16/Nov/2025:08:55:58 -0300] "POST /wp-login.php HTTP/1.1" 200 2851 "https://www.bing.com/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.117 Safari/537.36" - 0.271
+45.148.10.152 - - [16/Nov/2025:09:08:43 -0300] "GET /.aws/credentials HTTP/1.1" 403 146 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/117.0" - 0.000
+104.209.148.247 - - [16/Nov/2025:09:22:38 -0300] "POST /wp-cron.php?doing_wp_cron=1763295758.0337209701538085937500 HTTP/1.1" 200 31 "-" "WordPress/6.4.7; https://www.colonia.estudiantesdelaplata.com" - 0.001
+209.141.61.31 - - [16/Nov/2025:09:22:38 -0300] "GET /wp-login.php HTTP/1.1" 200 2719 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:31.0) Gecko/20100101 Firefox/31.0" BYPASS 0.294
+209.141.61.31 - - [16/Nov/2025:09:22:38 -0300] "POST /wp-login.php HTTP/1.1" 200 2852 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:31.0) Gecko/20100101 Firefox/31.0" - 0.343
+205.185.114.63 - - [16/Nov/2025:09:27:09 -0300] "GET /wp-login.php HTTP/1.1" 200 2719 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.75.14 (KHTML, like Gecko) Version/7.0.3 Safari/537.75.14" BYPASS 0.275
+205.185.114.63 - - [16/Nov/2025:09:27:18 -0300] "POST /wp-login.php HTTP/1.1" 200 2852 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.75.14 (KHTML, like Gecko) Version/7.0.3 Safari/537.75.14" - 0.286
+209.141.52.237 - - [16/Nov/2025:09:27:19 -0300] "GET /wp-login.php HTTP/1.1" 200 2719 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:31.0) Gecko/20100101 Firefox/31.0" BYPASS 0.272
+209.141.52.237 - - [16/Nov/2025:09:27:19 -0300] "POST /wp-login.php HTTP/1.1" 200 2852 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:31.0) Gecko/20100101 Firefox/31.0" - 0.259
+107.189.12.178 - - [16/Nov/2025:09:27:30 -0300] "GET /wp-login.php HTTP/1.1" 200 2719 "https://www.yahoo.com/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" BYPASS 0.267
+107.189.12.178 - - [16/Nov/2025:09:27:32 -0300] "POST /wp-login.php HTTP/1.1" 200 2851 "https://www.yahoo.com/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" - 0.265
+45.61.187.69 - - [16/Nov/2025:09:28:10 -0300] "GET /wp-login.php HTTP/1.1" 200 2719 "https://www.google.com/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" BYPASS 0.263
+45.61.187.69 - - [16/Nov/2025:09:28:12 -0300] "POST /wp-login.php HTTP/1.1" 200 2852 "https://www.google.com/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" - 0.260
+209.141.47.135 - - [16/Nov/2025:09:29:59 -0300] "GET /wp-login.php HTTP/1.1" 200 2719 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.117 Safari/537.36" BYPASS 0.258
+209.141.47.135 - - [16/Nov/2025:09:30:00 -0300] "POST /wp-login.php HTTP/1.1" 200 2852 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.117 Safari/537.36" - 0.260
+205.185.120.118 - - [16/Nov/2025:09:31:08 -0300] "GET /wp-login.php HTTP/1.1" 200 8789 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36" BYPASS 0.261
+205.185.120.118 - - [16/Nov/2025:09:31:09 -0300] "POST /wp-login.php HTTP/1.1" 200 9251 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/36.0.1985.125 Chrome/36.0.1985.125 Safari/537.36" - 0.264
+199.195.248.152 - - [16/Nov/2025:09:31:52 -0300] "GET /wp-login.php HTTP/1.1" 200 2719 "https://www.yahoo.com/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.90 Safari/537.36 Edg/118.0.2088.76" BYPASS 0.261
+199.195.248.152 - - [16/Nov/2025:09:31:54 -0300] "POST /wp-login.php HTTP/1.1" 200 2851 "https://www.yahoo.com/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.90 Safari/537.36 Edg/118.0.2088.76" - 0.261
+104.209.148.247 - - [16/Nov/2025:09:35:14 -0300] "POST /wp-cron.php?doing_wp_cron=1763296514.3471620082855224609375 HTTP/1.1" 200 31 "-" "WordPress/6.4.7; https://www.colonia.estudiantesdelaplata.com" - 0.000
+199.195.251.69 - - [16/Nov/2025:09:35:14 -0300] "GET / HTTP/1.1" 200 12374 "https://duckduckgo.com/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" EXPIRED 0.465
+199.195.251.69 - - [16/Nov/2025:09:35:15 -0300] "GET /wp-login.php HTTP/1.1" 200 2719 "https://duckduckgo.com/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" BYPASS 0.257
+199.195.251.69 - - [16/Nov/2025:09:35:16 -0300] "POST /wp-login.php HTTP/1.1" 200 2851 "https://duckduckgo.com/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" - 0.270
+110.249.202.240 - - [16/Nov/2025:09:42:10 -0300] "GET / HTTP/2.0" 200 12361 "-" "Mozilla/5.0 (Linux; Android 5.0) AppleWebKit/537.36 (KHTML, like Gecko) Mobile Safari/537.36 (compatible; Bytespider; https://zhanzhang.toutiao.com/)" MISS 0.489
+104.209.148.247 - - [16/Nov/2025:09:54:52 -0300] "POST /wp-cron.php?doing_wp_cron=1763297692.6546421051025390625000 HTTP/1.1" 200 31 "-" "WordPress/6.4.7; https://www.colonia.estudiantesdelaplata.com" - 0.001
+186.22.62.48 - - [16/Nov/2025:09:54:52 -0300] "GET / HTTP/2.0" 200 12361 "android-app://com.google.android.gm/" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36" EXPIRED 0.420
+186.22.62.48 - - [16/Nov/2025:09:54:53 -0300] "GET /wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.8.2 HTTP/2.0" 200 1004 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36" - 0.000
+186.22.62.48 - - [16/Nov/2025:09:54:53 -0300] "GET /wp-content/themes/hello-elementor/style.min.css?ver=2.9.0 HTTP/2.0" 200 1873 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36" - 0.000
+186.22.62.48 - - [16/Nov/2025:09:54:53 -0300] "GET /wp-content/themes/hello-elementor/theme.min.css?ver=2.9.0 HTTP/2.0" 200 2490 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36" - 0.000
+186.22.62.48 - - [16/Nov/2025:09:54:53 -0300] "GET /wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.17.2 HTTP/2.0" 200 13773 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36" - 0.000
+186.22.62.48 - - [16/Nov/2025:09:54:53 -0300] "GET /wp-content/uploads/elementor/css/post-294.css?ver=1699452484 HTTP/2.0" 200 363 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36" - 0.000
+186.22.62.48 - - [16/Nov/2025:09:54:53 -0300] "GET /wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.23.0 HTTP/2.0" 200 4009 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36" - 0.000
+186.22.62.48 - - [16/Nov/2025:09:54:53 -0300] "GET /wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5 HTTP/2.0" 200 4583 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36" - 0.000
+186.22.62.48 - - [16/Nov/2025:09:54:53 -0300] "GET /wp-content/uploads/elementor/css/global.css?ver=1699452484 HTTP/2.0" 200 839 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36" - 0.000
+186.22.62.48 - - [16/Nov/2025:09:54:53 -0300] "GET /wp-content/uploads/elementor/css/post-553.css?ver=1732822733 HTTP/2.0" 200 2184 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36" - 0.000
+186.22.62.48 - - [16/Nov/2025:09:54:53 -0300] "GET /wp-includes/js/jquery/jquery.min.js?ver=3.7.1 HTTP/2.0" 200 30419 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36" - 0.000
+186.22.62.48 - - [16/Nov/2025:09:54:53 -0300] "GET /wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1 HTTP/2.0" 200 4872 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36" - 0.000
+186.22.62.48 - - [16/Nov/2025:09:54:53 -0300] "GET /wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.8.2 HTTP/2.0" 200 3182 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36" - 0.010
+186.22.62.48 - - [16/Nov/2025:09:54:53 -0300] "GET /wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.8.2 HTTP/2.0" 200 4182 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36" - 0.000
+186.22.62.48 - - [16/Nov/2025:09:54:53 -0300] "GET /wp-content/themes/hello-elementor/assets/js/hello-frontend.min.js?ver=1.0.0 HTTP/2.0" 200 620 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36" - 0.000
+186.22.62.48 - - [16/Nov/2025:09:54:53 -0300] "GET /wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.17.2 HTTP/2.0" 200 2213 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36" - 0.000
+186.22.62.48 - - [16/Nov/2025:09:54:53 -0300] "GET /wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.17.2 HTTP/2.0" 200 16918 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36" - 0.000
+186.22.62.48 - - [16/Nov/2025:09:54:53 -0300] "GET /wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2 HTTP/2.0" 200 2995 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36" - 0.000
+186.22.62.48 - - [16/Nov/2025:09:54:53 -0300] "GET /wp-includes/js/jquery/ui/core.min.js?ver=1.13.2 HTTP/2.0" 200 7099 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36" - 0.000
+186.22.62.48 - - [16/Nov/2025:09:54:53 -0300] "GET /wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.17.2 HTTP/2.0" 200 12234 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36" - 0.000
+186.22.62.48 - - [16/Nov/2025:09:54:54 -0300] "GET /wp-content/plugins/elementor/assets/js/text-editor.2c35aafbe5bf0e127950.bundle.min.js HTTP/2.0" 200 665 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36" - 0.000
+186.22.62.48 - - [16/Nov/2025:09:54:54 -0300] "GET /wp-content/plugins/elementor/assets/js/tabs.c2af5be7f9cb3cdcf3d5.bundle.min.js HTTP/2.0" 200 1382 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36" - 0.000
+104.209.148.247 - - [16/Nov/2025:10:10:14 -0300] "POST /wp-cron.php?doing_wp_cron=1763298614.3075881004333496093750 HTTP/1.1" 200 31 "-" "WordPress/6.4.7; https://www.colonia.estudiantesdelaplata.com" - 0.001
+205.185.120.118 - - [16/Nov/2025:10:10:14 -0300] "GET /wp-login.php HTTP/1.1" 200 8789 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36" BYPASS 0.289
+205.185.120.118 - - [16/Nov/2025:10:10:14 -0300] "POST /wp-login.php HTTP/1.1" 200 9251 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36" - 0.309
+209.141.54.165 - - [16/Nov/2025:10:10:15 -0300] "GET /wp-login.php HTTP/1.1" 200 2719 "https://www.bing.com/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" BYPASS 0.256
+209.141.54.165 - - [16/Nov/2025:10:10:16 -0300] "POST /wp-login.php HTTP/1.1" 200 2851 "https://www.bing.com/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" - 0.272
+45.61.186.220 - - [16/Nov/2025:10:14:35 -0300] "GET /wp-login.php HTTP/1.1" 200 2719 "https://www.bing.com/" "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1" BYPASS 0.255
+45.61.186.220 - - [16/Nov/2025:10:14:38 -0300] "POST /wp-login.php HTTP/1.1" 200 2852 "https://www.bing.com/" "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1" - 0.262
+198.98.59.143 - - [16/Nov/2025:10:15:48 -0300] "GET /wp-login.php HTTP/1.1" 200 2719 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.117 Safari/537.36" BYPASS 0.263
+198.98.59.143 - - [16/Nov/2025:10:15:50 -0300] "POST /wp-login.php HTTP/1.1" 200 2852 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.117 Safari/537.36" - 0.262
+205.185.120.218 - - [16/Nov/2025:10:22:14 -0300] "GET /wp-login.php HTTP/1.1" 200 2719 "-" "Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0" BYPASS 0.255
+205.185.120.218 - - [16/Nov/2025:10:22:19 -0300] "POST /wp-login.php HTTP/1.1" 200 2851 "-" "Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0" - 0.262
+181.231.64.50 - - [16/Nov/2025:10:24:19 -0300] "GET /?fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQPNTY3MDY3MzQzMzUyNDI3CGNhbGxzaXRlAjE1AAGnChettzDbu5NQ-mmKoowX3glhhWH6sffKOYxbtkHwC0jfdpR7huw8Q5PUSqw_aem_x1fqw-XA-tWYOWD-KP0tYQ HTTP/1.1" 301 5 "https://l.instagram.com/" "Mozilla/5.0 (Linux; Android 14; SM-A155M Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/141.0.7390.122 Mobile Safari/537.36 Instagram 406.0.0.58.159 Android (34/14; 450dpi; 1080x2125; samsung; SM-A155M; a15; mt6789; es_US; 822917808; IABMV/1)" BYPASS 0.261
+181.231.64.50 - - [16/Nov/2025:10:24:20 -0300] "GET /?fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQPNTY3MDY3MzQzMzUyNDI3CGNhbGxzaXRlAjE1AAGnChettzDbu5NQ-mmKoowX3glhhWH6sffKOYxbtkHwC0jfdpR7huw8Q5PUSqw_aem_x1fqw-XA-tWYOWD-KP0tYQ HTTP/2.0" 200 12361 "https://l.instagram.com/" "Mozilla/5.0 (Linux; Android 14; SM-A155M Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/141.0.7390.122 Mobile Safari/537.36 Instagram 406.0.0.58.159 Android (34/14; 450dpi; 1080x2125; samsung; SM-A155M; a15; mt6789; es_US; 822917808; IABMV/1)" BYPASS 0.407
+181.231.64.50 - - [16/Nov/2025:10:24:20 -0300] "GET /wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.8.2 HTTP/2.0" 200 1004 "https://www.colonia.estudiantesdelaplata.com/?fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQPNTY3MDY3MzQzMzUyNDI3CGNhbGxzaXRlAjE1AAGnChettzDbu5NQ-mmKoowX3glhhWH6sffKOYxbtkHwC0jfdpR7huw8Q5PUSqw_aem_x1fqw-XA-tWYOWD-KP0tYQ" "Mozilla/5.0 (Linux; Android 14; SM-A155M Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/141.0.7390.122 Mobile Safari/537.36 Instagram 406.0.0.58.159 Android (34/14; 450dpi; 1080x2125; samsung; SM-A155M; a15; mt6789; es_US; 822917808; IABMV/1)" - 0.000
+181.231.64.50 - - [16/Nov/2025:10:24:20 -0300] "GET /wp-content/themes/hello-elementor/style.min.css?ver=2.9.0 HTTP/2.0" 200 1873 "https://www.colonia.estudiantesdelaplata.com/?fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQPNTY3MDY3MzQzMzUyNDI3CGNhbGxzaXRlAjE1AAGnChettzDbu5NQ-mmKoowX3glhhWH6sffKOYxbtkHwC0jfdpR7huw8Q5PUSqw_aem_x1fqw-XA-tWYOWD-KP0tYQ" "Mozilla/5.0 (Linux; Android 14; SM-A155M Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/141.0.7390.122 Mobile Safari/537.36 Instagram 406.0.0.58.159 Android (34/14; 450dpi; 1080x2125; samsung; SM-A155M; a15; mt6789; es_US; 822917808; IABMV/1)" - 0.000
+181.231.64.50 - - [16/Nov/2025:10:24:20 -0300] "GET /wp-content/themes/hello-elementor/theme.min.css?ver=2.9.0 HTTP/2.0" 200 2490 "https://www.colonia.estudiantesdelaplata.com/?fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQPNTY3MDY3MzQzMzUyNDI3CGNhbGxzaXRlAjE1AAGnChettzDbu5NQ-mmKoowX3glhhWH6sffKOYxbtkHwC0jfdpR7huw8Q5PUSqw_aem_x1fqw-XA-tWYOWD-KP0tYQ" "Mozilla/5.0 (Linux; Android 14; SM-A155M Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/141.0.7390.122 Mobile Safari/537.36 Instagram 406.0.0.58.159 Android (34/14; 450dpi; 1080x2125; samsung; SM-A155M; a15; mt6789; es_US; 822917808; IABMV/1)" - 0.000
+181.231.64.50 - - [16/Nov/2025:10:24:20 -0300] "GET /wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.17.2 HTTP/2.0" 200 13773 "https://www.colonia.estudiantesdelaplata.com/?fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQPNTY3MDY3MzQzMzUyNDI3CGNhbGxzaXRlAjE1AAGnChettzDbu5NQ-mmKoowX3glhhWH6sffKOYxbtkHwC0jfdpR7huw8Q5PUSqw_aem_x1fqw-XA-tWYOWD-KP0tYQ" "Mozilla/5.0 (Linux; Android 14; SM-A155M Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/141.0.7390.122 Mobile Safari/537.36 Instagram 406.0.0.58.159 Android (34/14; 450dpi; 1080x2125; samsung; SM-A155M; a15; mt6789; es_US; 822917808; IABMV/1)" - 0.000
+181.231.64.50 - - [16/Nov/2025:10:24:20 -0300] "GET /wp-content/uploads/elementor/css/post-294.css?ver=1699452484 HTTP/2.0" 200 363 "https://www.colonia.estudiantesdelaplata.com/?fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQPNTY3MDY3MzQzMzUyNDI3CGNhbGxzaXRlAjE1AAGnChettzDbu5NQ-mmKoowX3glhhWH6sffKOYxbtkHwC0jfdpR7huw8Q5PUSqw_aem_x1fqw-XA-tWYOWD-KP0tYQ" "Mozilla/5.0 (Linux; Android 14; SM-A155M Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/141.0.7390.122 Mobile Safari/537.36 Instagram 406.0.0.58.159 Android (34/14; 450dpi; 1080x2125; samsung; SM-A155M; a15; mt6789; es_US; 822917808; IABMV/1)" - 0.000
+181.231.64.50 - - [16/Nov/2025:10:24:20 -0300] "GET /wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.23.0 HTTP/2.0" 200 4009 "https://www.colonia.estudiantesdelaplata.com/?fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQPNTY3MDY3MzQzMzUyNDI3CGNhbGxzaXRlAjE1AAGnChettzDbu5NQ-mmKoowX3glhhWH6sffKOYxbtkHwC0jfdpR7huw8Q5PUSqw_aem_x1fqw-XA-tWYOWD-KP0tYQ" "Mozilla/5.0 (Linux; Android 14; SM-A155M Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/141.0.7390.122 Mobile Safari/537.36 Instagram 406.0.0.58.159 Android (34/14; 450dpi; 1080x2125; samsung; SM-A155M; a15; mt6789; es_US; 822917808; IABMV/1)" - 0.000
+181.231.64.50 - - [16/Nov/2025:10:24:20 -0300] "GET /wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5 HTTP/2.0" 200 4583 "https://www.colonia.estudiantesdelaplata.com/?fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQPNTY3MDY3MzQzMzUyNDI3CGNhbGxzaXRlAjE1AAGnChettzDbu5NQ-mmKoowX3glhhWH6sffKOYxbtkHwC0jfdpR7huw8Q5PUSqw_aem_x1fqw-XA-tWYOWD-KP0tYQ" "Mozilla/5.0 (Linux; Android 14; SM-A155M Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/141.0.7390.122 Mobile Safari/537.36 Instagram 406.0.0.58.159 Android (34/14; 450dpi; 1080x2125; samsung; SM-A155M; a15; mt6789; es_US; 822917808; IABMV/1)" - 0.000
+181.231.64.50 - - [16/Nov/2025:10:24:20 -0300] "GET /wp-content/uploads/elementor/css/global.css?ver=1699452484 HTTP/2.0" 200 839 "https://www.colonia.estudiantesdelaplata.com/?fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQPNTY3MDY3MzQzMzUyNDI3CGNhbGxzaXRlAjE1AAGnChettzDbu5NQ-mmKoowX3glhhWH6sffKOYxbtkHwC0jfdpR7huw8Q5PUSqw_aem_x1fqw-XA-tWYOWD-KP0tYQ" "Mozilla/5.0 (Linux; Android 14; SM-A155M Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/141.0.7390.122 Mobile Safari/537.36 Instagram 406.0.0.58.159 Android (34/14; 450dpi; 1080x2125; samsung; SM-A155M; a15; mt6789; es_US; 822917808; IABMV/1)" - 0.000
+181.231.64.50 - - [16/Nov/2025:10:24:20 -0300] "GET /wp-content/uploads/elementor/css/post-553.css?ver=1732822733 HTTP/2.0" 200 2184 "https://www.colonia.estudiantesdelaplata.com/?fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQPNTY3MDY3MzQzMzUyNDI3CGNhbGxzaXRlAjE1AAGnChettzDbu5NQ-mmKoowX3glhhWH6sffKOYxbtkHwC0jfdpR7huw8Q5PUSqw_aem_x1fqw-XA-tWYOWD-KP0tYQ" "Mozilla/5.0 (Linux; Android 14; SM-A155M Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/141.0.7390.122 Mobile Safari/537.36 Instagram 406.0.0.58.159 Android (34/14; 450dpi; 1080x2125; samsung; SM-A155M; a15; mt6789; es_US; 822917808; IABMV/1)" - 0.000
+181.231.64.50 - - [16/Nov/2025:10:24:20 -0300] "GET /wp-includes/js/jquery/jquery.min.js?ver=3.7.1 HTTP/2.0" 200 30419 "https://www.colonia.estudiantesdelaplata.com/?fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQPNTY3MDY3MzQzMzUyNDI3CGNhbGxzaXRlAjE1AAGnChettzDbu5NQ-mmKoowX3glhhWH6sffKOYxbtkHwC0jfdpR7huw8Q5PUSqw_aem_x1fqw-XA-tWYOWD-KP0tYQ" "Mozilla/5.0 (Linux; Android 14; SM-A155M Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/141.0.7390.122 Mobile Safari/537.36 Instagram 406.0.0.58.159 Android (34/14; 450dpi; 1080x2125; samsung; SM-A155M; a15; mt6789; es_US; 822917808; IABMV/1)" - 0.000
+181.231.64.50 - - [16/Nov/2025:10:24:20 -0300] "GET /wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1 HTTP/2.0" 200 4872 "https://www.colonia.estudiantesdelaplata.com/?fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQPNTY3MDY3MzQzMzUyNDI3CGNhbGxzaXRlAjE1AAGnChettzDbu5NQ-mmKoowX3glhhWH6sffKOYxbtkHwC0jfdpR7huw8Q5PUSqw_aem_x1fqw-XA-tWYOWD-KP0tYQ" "Mozilla/5.0 (Linux; Android 14; SM-A155M Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/141.0.7390.122 Mobile Safari/537.36 Instagram 406.0.0.58.159 Android (34/14; 450dpi; 1080x2125; samsung; SM-A155M; a15; mt6789; es_US; 822917808; IABMV/1)" - 0.000
+181.231.64.50 - - [16/Nov/2025:10:24:20 -0300] "GET /wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.8.2 HTTP/2.0" 200 3182 "https://www.colonia.estudiantesdelaplata.com/?fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQPNTY3MDY3MzQzMzUyNDI3CGNhbGxzaXRlAjE1AAGnChettzDbu5NQ-mmKoowX3glhhWH6sffKOYxbtkHwC0jfdpR7huw8Q5PUSqw_aem_x1fqw-XA-tWYOWD-KP0tYQ" "Mozilla/5.0 (Linux; Android 14; SM-A155M Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/141.0.7390.122 Mobile Safari/537.36 Instagram 406.0.0.58.159 Android (34/14; 450dpi; 1080x2125; samsung; SM-A155M; a15; mt6789; es_US; 822917808; IABMV/1)" - 0.114
+181.231.64.50 - - [16/Nov/2025:10:24:21 -0300] "GET /wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.8.2 HTTP/2.0" 200 4182 "https://www.colonia.estudiantesdelaplata.com/?fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQPNTY3MDY3MzQzMzUyNDI3CGNhbGxzaXRlAjE1AAGnChettzDbu5NQ-mmKoowX3glhhWH6sffKOYxbtkHwC0jfdpR7huw8Q5PUSqw_aem_x1fqw-XA-tWYOWD-KP0tYQ" "Mozilla/5.0 (Linux; Android 14; SM-A155M Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/141.0.7390.122 Mobile Safari/537.36 Instagram 406.0.0.58.159 Android (34/14; 450dpi; 1080x2125; samsung; SM-A155M; a15; mt6789; es_US; 822917808; IABMV/1)" - 0.246
+181.231.64.50 - - [16/Nov/2025:10:24:21 -0300] "GET /wp-content/themes/hello-elementor/assets/js/hello-frontend.min.js?ver=1.0.0 HTTP/2.0" 200 620 "https://www.colonia.estudiantesdelaplata.com/?fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQPNTY3MDY3MzQzMzUyNDI3CGNhbGxzaXRlAjE1AAGnChettzDbu5NQ-mmKoowX3glhhWH6sffKOYxbtkHwC0jfdpR7huw8Q5PUSqw_aem_x1fqw-XA-tWYOWD-KP0tYQ" "Mozilla/5.0 (Linux; Android 14; SM-A155M Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/141.0.7390.122 Mobile Safari/537.36 Instagram 406.0.0.58.159 Android (34/14; 450dpi; 1080x2125; samsung; SM-A155M; a15; mt6789; es_US; 822917808; IABMV/1)" - 0.246
+181.231.64.50 - - [16/Nov/2025:10:24:21 -0300] "GET /wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.17.2 HTTP/2.0" 200 2213 "https://www.colonia.estudiantesdelaplata.com/?fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQPNTY3MDY3MzQzMzUyNDI3CGNhbGxzaXRlAjE1AAGnChettzDbu5NQ-mmKoowX3glhhWH6sffKOYxbtkHwC0jfdpR7huw8Q5PUSqw_aem_x1fqw-XA-tWYOWD-KP0tYQ" "Mozilla/5.0 (Linux; Android 14; SM-A155M Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/141.0.7390.122 Mobile Safari/537.36 Instagram 406.0.0.58.159 Android (34/14; 450dpi; 1080x2125; samsung; SM-A155M; a15; mt6789; es_US; 822917808; IABMV/1)" - 0.246
+181.231.64.50 - - [16/Nov/2025:10:24:21 -0300] "GET /wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2 HTTP/2.0" 200 2995 "https://www.colonia.estudiantesdelaplata.com/?fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQPNTY3MDY3MzQzMzUyNDI3CGNhbGxzaXRlAjE1AAGnChettzDbu5NQ-mmKoowX3glhhWH6sffKOYxbtkHwC0jfdpR7huw8Q5PUSqw_aem_x1fqw-XA-tWYOWD-KP0tYQ" "Mozilla/5.0 (Linux; Android 14; SM-A155M Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/141.0.7390.122 Mobile Safari/537.36 Instagram 406.0.0.58.159 Android (34/14; 450dpi; 1080x2125; samsung; SM-A155M; a15; mt6789; es_US; 822917808; IABMV/1)" - 0.246
+181.231.64.50 - - [16/Nov/2025:10:24:21 -0300] "GET /wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.17.2 HTTP/2.0" 200 12234 "https://www.colonia.estudiantesdelaplata.com/?fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQPNTY3MDY3MzQzMzUyNDI3CGNhbGxzaXRlAjE1AAGnChettzDbu5NQ-mmKoowX3glhhWH6sffKOYxbtkHwC0jfdpR7huw8Q5PUSqw_aem_x1fqw-XA-tWYOWD-KP0tYQ" "Mozilla/5.0 (Linux; Android 14; SM-A155M Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/141.0.7390.122 Mobile Safari/537.36 Instagram 406.0.0.58.159 Android (34/14; 450dpi; 1080x2125; samsung; SM-A155M; a15; mt6789; es_US; 822917808; IABMV/1)" - 0.246
+181.231.64.50 - - [16/Nov/2025:10:24:21 -0300] "GET /wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.17.2 HTTP/2.0" 200 16918 "https://www.colonia.estudiantesdelaplata.com/?fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQPNTY3MDY3MzQzMzUyNDI3CGNhbGxzaXRlAjE1AAGnChettzDbu5NQ-mmKoowX3glhhWH6sffKOYxbtkHwC0jfdpR7huw8Q5PUSqw_aem_x1fqw-XA-tWYOWD-KP0tYQ" "Mozilla/5.0 (Linux; Android 14; SM-A155M Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/141.0.7390.122 Mobile Safari/537.36 Instagram 406.0.0.58.159 Android (34/14; 450dpi; 1080x2125; samsung; SM-A155M; a15; mt6789; es_US; 822917808; IABMV/1)" - 0.246
+181.231.64.50 - - [16/Nov/2025:10:24:21 -0300] "GET /wp-includes/js/jquery/ui/core.min.js?ver=1.13.2 HTTP/2.0" 200 7099 "https://www.colonia.estudiantesdelaplata.com/?fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQPNTY3MDY3MzQzMzUyNDI3CGNhbGxzaXRlAjE1AAGnChettzDbu5NQ-mmKoowX3glhhWH6sffKOYxbtkHwC0jfdpR7huw8Q5PUSqw_aem_x1fqw-XA-tWYOWD-KP0tYQ" "Mozilla/5.0 (Linux; Android 14; SM-A155M Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/141.0.7390.122 Mobile Safari/537.36 Instagram 406.0.0.58.159 Android (34/14; 450dpi; 1080x2125; samsung; SM-A155M; a15; mt6789; es_US; 822917808; IABMV/1)" - 0.246
+181.231.64.50 - - [16/Nov/2025:10:24:22 -0300] "GET /wp-content/plugins/elementor/assets/js/text-editor.2c35aafbe5bf0e127950.bundle.min.js HTTP/2.0" 200 665 "https://www.colonia.estudiantesdelaplata.com/?fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQPNTY3MDY3MzQzMzUyNDI3CGNhbGxzaXRlAjE1AAGnChettzDbu5NQ-mmKoowX3glhhWH6sffKOYxbtkHwC0jfdpR7huw8Q5PUSqw_aem_x1fqw-XA-tWYOWD-KP0tYQ" "Mozilla/5.0 (Linux; Android 14; SM-A155M Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/141.0.7390.122 Mobile Safari/537.36 Instagram 406.0.0.58.159 Android (34/14; 450dpi; 1080x2125; samsung; SM-A155M; a15; mt6789; es_US; 822917808; IABMV/1)" - 0.000
+181.231.64.50 - - [16/Nov/2025:10:24:22 -0300] "GET /wp-content/plugins/elementor/assets/js/tabs.c2af5be7f9cb3cdcf3d5.bundle.min.js HTTP/2.0" 200 1382 "https://www.colonia.estudiantesdelaplata.com/?fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQPNTY3MDY3MzQzMzUyNDI3CGNhbGxzaXRlAjE1AAGnChettzDbu5NQ-mmKoowX3glhhWH6sffKOYxbtkHwC0jfdpR7huw8Q5PUSqw_aem_x1fqw-XA-tWYOWD-KP0tYQ" "Mozilla/5.0 (Linux; Android 14; SM-A155M Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/141.0.7390.122 Mobile Safari/537.36 Instagram 406.0.0.58.159 Android (34/14; 450dpi; 1080x2125; samsung; SM-A155M; a15; mt6789; es_US; 822917808; IABMV/1)" - 0.000
+205.185.114.63 - - [16/Nov/2025:10:24:25 -0300] "GET /wp-login.php HTTP/1.1" 200 2719 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:30.0) Gecko/20100101 Firefox/30.0" BYPASS 0.269
+205.185.114.63 - - [16/Nov/2025:10:24:26 -0300] "POST /wp-login.php HTTP/1.1" 200 2852 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:30.0) Gecko/20100101 Firefox/30.0" - 0.263
+104.244.78.206 - - [16/Nov/2025:10:25:30 -0300] "GET /wp-login.php HTTP/1.1" 200 8789 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit/537.75.14 (KHTML, like Gecko) Version/7.0.3 Safari/537.75.14" BYPASS 0.277
+104.244.78.206 - - [16/Nov/2025:10:25:30 -0300] "POST /wp-login.php HTTP/1.1" 200 9249 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit/537.75.14 (KHTML, like Gecko) Version/7.0.3 Safari/537.75.14" - 0.268
+104.209.148.247 - - [16/Nov/2025:10:48:55 -0300] "POST /wp-cron.php?doing_wp_cron=1763300935.5797870159149169921875 HTTP/1.1" 200 31 "-" "WordPress/6.4.7; https://www.colonia.estudiantesdelaplata.com" - 0.001
+104.244.72.193 - - [16/Nov/2025:10:48:55 -0300] "GET /wp-login.php HTTP/1.1" 200 2719 "https://www.google.com/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.90 Safari/537.36 Edg/118.0.2088.76" BYPASS 0.273
+104.244.72.193 - - [16/Nov/2025:10:48:56 -0300] "POST /wp-login.php HTTP/1.1" 200 2851 "https://www.google.com/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.90 Safari/537.36 Edg/118.0.2088.76" - 0.285
+181.239.150.45 - - [16/Nov/2025:10:50:37 -0300] "GET / HTTP/2.0" 200 12361 "-" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36" EXPIRED 0.430
+181.239.150.45 - - [16/Nov/2025:10:50:37 -0300] "GET /wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.8.2 HTTP/2.0" 200 1004 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36" - 0.000
+181.239.150.45 - - [16/Nov/2025:10:50:37 -0300] "GET /wp-content/themes/hello-elementor/style.min.css?ver=2.9.0 HTTP/2.0" 200 1873 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36" - 0.000
+181.239.150.45 - - [16/Nov/2025:10:50:37 -0300] "GET /wp-content/themes/hello-elementor/theme.min.css?ver=2.9.0 HTTP/2.0" 200 2490 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36" - 0.000
+181.239.150.45 - - [16/Nov/2025:10:50:37 -0300] "GET /wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.17.2 HTTP/2.0" 200 13773 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36" - 0.000
+181.239.150.45 - - [16/Nov/2025:10:50:37 -0300] "GET /wp-content/uploads/elementor/css/post-294.css?ver=1699452484 HTTP/2.0" 200 363 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36" - 0.000
+181.239.150.45 - - [16/Nov/2025:10:50:37 -0300] "GET /wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.23.0 HTTP/2.0" 200 4009 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36" - 0.000
+181.239.150.45 - - [16/Nov/2025:10:50:37 -0300] "GET /wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5 HTTP/2.0" 200 4583 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36" - 0.000
+181.239.150.45 - - [16/Nov/2025:10:50:37 -0300] "GET /wp-content/uploads/elementor/css/global.css?ver=1699452484 HTTP/2.0" 200 839 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36" - 0.000
+181.239.150.45 - - [16/Nov/2025:10:50:37 -0300] "GET /wp-content/uploads/elementor/css/post-553.css?ver=1732822733 HTTP/2.0" 200 2184 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36" - 0.000
+181.239.150.45 - - [16/Nov/2025:10:50:37 -0300] "GET /wp-includes/js/jquery/jquery.min.js?ver=3.7.1 HTTP/2.0" 200 30419 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36" - 0.000
+181.239.150.45 - - [16/Nov/2025:10:50:37 -0300] "GET /wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1 HTTP/2.0" 200 4872 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36" - 0.000
+181.239.150.45 - - [16/Nov/2025:10:50:37 -0300] "GET /wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.8.2 HTTP/2.0" 200 3182 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36" - 0.031
+181.239.150.45 - - [16/Nov/2025:10:50:38 -0300] "GET /wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.8.2 HTTP/2.0" 200 4182 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36" - 0.141
+181.239.150.45 - - [16/Nov/2025:10:50:38 -0300] "GET /wp-content/themes/hello-elementor/assets/js/hello-frontend.min.js?ver=1.0.0 HTTP/2.0" 200 620 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36" - 0.134
+181.239.150.45 - - [16/Nov/2025:10:50:38 -0300] "GET /wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.17.2 HTTP/2.0" 200 2213 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36" - 0.134
+181.239.150.45 - - [16/Nov/2025:10:50:38 -0300] "GET /wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.17.2 HTTP/2.0" 200 16918 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36" - 0.134
+181.239.150.45 - - [16/Nov/2025:10:50:38 -0300] "GET /wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2 HTTP/2.0" 200 2995 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36" - 0.134
+181.239.150.45 - - [16/Nov/2025:10:50:38 -0300] "GET /wp-includes/js/jquery/ui/core.min.js?ver=1.13.2 HTTP/2.0" 200 7099 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36" - 0.131
+181.239.150.45 - - [16/Nov/2025:10:50:38 -0300] "GET /wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.17.2 HTTP/2.0" 200 12234 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36" - 0.131
+181.239.150.45 - - [16/Nov/2025:10:50:38 -0300] "GET /wp-content/plugins/elementor/assets/js/text-editor.2c35aafbe5bf0e127950.bundle.min.js HTTP/2.0" 200 665 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36" - 0.000
+181.239.150.45 - - [16/Nov/2025:10:50:38 -0300] "GET /wp-content/plugins/elementor/assets/js/tabs.c2af5be7f9cb3cdcf3d5.bundle.min.js HTTP/2.0" 200 1382 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36" - 0.000
+205.185.114.63 - - [16/Nov/2025:10:51:14 -0300] "GET /wp-login.php HTTP/1.1" 200 2719 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4" BYPASS 0.270
+205.185.114.63 - - [16/Nov/2025:10:51:15 -0300] "POST /wp-login.php HTTP/1.1" 200 2852 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4" - 0.258
+205.185.114.63 - - [16/Nov/2025:10:54:22 -0300] "GET /wp-login.php HTTP/1.1" 200 2719 "-" "Mozilla/5.0 (iPad; CPU OS 7_1_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D201 Safari/9537.53" BYPASS 0.248
+205.185.114.63 - - [16/Nov/2025:10:54:22 -0300] "POST /wp-login.php HTTP/1.1" 200 2852 "-" "Mozilla/5.0 (iPad; CPU OS 7_1_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D201 Safari/9537.53" - 0.354
+107.189.14.25 - - [16/Nov/2025:10:58:21 -0300] "GET /wp-login.php HTTP/1.1" 200 2719 "https://duckduckgo.com/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.90 Safari/537.36 Edg/118.0.2088.76" BYPASS 0.254
+107.189.14.25 - - [16/Nov/2025:10:58:22 -0300] "POST /wp-login.php HTTP/1.1" 200 2852 "https://duckduckgo.com/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.90 Safari/537.36 Edg/118.0.2088.76" - 0.258
+104.244.74.116 - - [16/Nov/2025:11:00:59 -0300] "GET /wp-login.php HTTP/1.1" 200 2719 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.117 Safari/537.36" BYPASS 0.252
+104.244.74.116 - - [16/Nov/2025:11:01:01 -0300] "POST /wp-login.php HTTP/1.1" 200 2852 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.117 Safari/537.36" - 0.274
+104.209.148.247 - - [16/Nov/2025:11:03:26 -0300] "POST /wp-cron.php?doing_wp_cron=1763301805.9997279644012451171875 HTTP/1.1" 200 31 "-" "WordPress/6.4.7; https://www.colonia.estudiantesdelaplata.com" - 0.001
+107.189.13.175 - - [16/Nov/2025:11:03:26 -0300] "GET /wp-login.php HTTP/1.1" 200 2719 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.117 Safari/537.36" BYPASS 0.360
+107.189.13.175 - - [16/Nov/2025:11:03:27 -0300] "POST /wp-login.php HTTP/1.1" 200 2851 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.117 Safari/537.36" - 0.309
+104.209.148.247 - - [16/Nov/2025:11:08:05 -0300] "POST /wp-cron.php?doing_wp_cron=1763302085.2576870918273925781250 HTTP/1.1" 200 31 "-" "WordPress/6.4.7; https://www.colonia.estudiantesdelaplata.com" - 0.001
+181.166.67.85 - - [16/Nov/2025:11:08:05 -0300] "GET / HTTP/2.0" 200 12361 "https://estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36" EXPIRED 0.423
+181.166.67.85 - - [16/Nov/2025:11:08:05 -0300] "GET /wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.8.2 HTTP/2.0" 200 1004 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36" - 0.000
+181.166.67.85 - - [16/Nov/2025:11:08:05 -0300] "GET /wp-content/themes/hello-elementor/style.min.css?ver=2.9.0 HTTP/2.0" 200 1873 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36" - 0.000
+181.166.67.85 - - [16/Nov/2025:11:08:05 -0300] "GET /wp-content/themes/hello-elementor/theme.min.css?ver=2.9.0 HTTP/2.0" 200 2490 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36" - 0.000
+181.166.67.85 - - [16/Nov/2025:11:08:05 -0300] "GET /wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.17.2 HTTP/2.0" 200 13773 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36" - 0.000
+181.166.67.85 - - [16/Nov/2025:11:08:05 -0300] "GET /wp-content/uploads/elementor/css/post-294.css?ver=1699452484 HTTP/2.0" 200 363 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36" - 0.000
+181.166.67.85 - - [16/Nov/2025:11:08:05 -0300] "GET /wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.23.0 HTTP/2.0" 200 4009 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36" - 0.000
+181.166.67.85 - - [16/Nov/2025:11:08:05 -0300] "GET /wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5 HTTP/2.0" 200 4583 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36" - 0.000
+181.166.67.85 - - [16/Nov/2025:11:08:05 -0300] "GET /wp-content/uploads/elementor/css/global.css?ver=1699452484 HTTP/2.0" 200 839 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36" - 0.000
+181.166.67.85 - - [16/Nov/2025:11:08:05 -0300] "GET /wp-content/uploads/elementor/css/post-553.css?ver=1732822733 HTTP/2.0" 200 2184 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36" - 0.000
+181.166.67.85 - - [16/Nov/2025:11:08:05 -0300] "GET /wp-includes/js/jquery/jquery.min.js?ver=3.7.1 HTTP/2.0" 200 30419 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36" - 0.000
+181.166.67.85 - - [16/Nov/2025:11:08:05 -0300] "GET /wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1 HTTP/2.0" 200 4872 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36" - 0.000
+181.166.67.85 - - [16/Nov/2025:11:08:05 -0300] "GET /wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.8.2 HTTP/2.0" 200 3182 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36" - 0.000
+181.166.67.85 - - [16/Nov/2025:11:08:05 -0300] "GET /wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.8.2 HTTP/2.0" 200 4182 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36" - 0.000
+181.166.67.85 - - [16/Nov/2025:11:08:05 -0300] "GET /wp-content/themes/hello-elementor/assets/js/hello-frontend.min.js?ver=1.0.0 HTTP/2.0" 200 620 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36" - 0.000
+181.166.67.85 - - [16/Nov/2025:11:08:05 -0300] "GET /wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.17.2 HTTP/2.0" 200 2213 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36" - 0.000
+181.166.67.85 - - [16/Nov/2025:11:08:06 -0300] "GET /wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.17.2 HTTP/2.0" 200 16918 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36" - 0.000
+181.166.67.85 - - [16/Nov/2025:11:08:06 -0300] "GET /wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2 HTTP/2.0" 200 2995 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36" - 0.000
+181.166.67.85 - - [16/Nov/2025:11:08:06 -0300] "GET /wp-includes/js/jquery/ui/core.min.js?ver=1.13.2 HTTP/2.0" 200 7099 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36" - 0.000
+181.166.67.85 - - [16/Nov/2025:11:08:06 -0300] "GET /wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.17.2 HTTP/2.0" 200 12234 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36" - 0.000
+181.166.67.85 - - [16/Nov/2025:11:08:06 -0300] "GET /wp-content/plugins/elementor/assets/js/text-editor.2c35aafbe5bf0e127950.bundle.min.js HTTP/2.0" 200 665 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36" - 0.000
+181.166.67.85 - - [16/Nov/2025:11:08:06 -0300] "GET /wp-content/plugins/elementor/assets/js/tabs.c2af5be7f9cb3cdcf3d5.bundle.min.js HTTP/2.0" 200 1382 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36" - 0.000
+181.166.67.85 - - [16/Nov/2025:11:19:33 -0300] "GET / HTTP/2.0" 200 12361 "https://estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36" EXPIRED 0.393
+45.61.184.130 - - [16/Nov/2025:11:22:35 -0300] "GET /wp-login.php HTTP/1.1" 200 8789 "-" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36" BYPASS 0.401
+45.61.184.130 - - [16/Nov/2025:11:22:38 -0300] "POST /wp-login.php HTTP/1.1" 200 9253 "-" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36" - 0.264
+130.33.24.148 - - [16/Nov/2025:11:34:27 -0300] "GET /wp-content/plugins/hellopress/wp_filemanager.php HTTP/1.1" 404 146 "-" "-" - 0.000
+130.33.24.148 - - [16/Nov/2025:11:34:27 -0300] "GET /link.php HTTP/1.1" 404 146 "-" "-" - 0.000
+130.33.24.148 - - [16/Nov/2025:11:34:27 -0300] "GET /chosen.php?p= HTTP/1.1" 404 146 "-" "-" - 0.000
+130.33.24.148 - - [16/Nov/2025:11:34:27 -0300] "GET /mail.php HTTP/1.1" 404 146 "-" "-" - 0.000
+130.33.24.148 - - [16/Nov/2025:11:34:27 -0300] "GET /lock360.php HTTP/1.1" 404 146 "-" "-" - 0.000
+130.33.24.148 - - [16/Nov/2025:11:34:28 -0300] "GET /function.php HTTP/1.1" 404 146 "-" "-" - 0.000
+130.33.24.148 - - [16/Nov/2025:11:34:28 -0300] "GET /classwithtostring.php HTTP/1.1" 404 146 "-" "-" - 0.000
+130.33.24.148 - - [16/Nov/2025:11:34:28 -0300] "GET /1.php HTTP/1.1" 404 146 "-" "-" - 0.000
+130.33.24.148 - - [16/Nov/2025:11:34:28 -0300] "GET /autoload_classmap.php?p= HTTP/1.1" 404 146 "-" "-" - 0.000
+130.33.24.148 - - [16/Nov/2025:11:34:28 -0300] "GET /post.php HTTP/1.1" 404 146 "-" "-" - 0.000
+130.33.24.148 - - [16/Nov/2025:11:34:29 -0300] "GET /wp-conflg.php?p= HTTP/1.1" 404 146 "-" "-" - 0.000
+130.33.24.148 - - [16/Nov/2025:11:34:29 -0300] "GET /manager.php?p= HTTP/1.1" 404 146 "-" "-" - 0.000
+130.33.24.148 - - [16/Nov/2025:11:34:29 -0300] "GET /alfa.php HTTP/1.1" 404 146 "-" "-" - 0.000
+130.33.24.148 - - [16/Nov/2025:11:34:29 -0300] "GET /goods.php HTTP/1.1" 404 146 "-" "-" - 0.000
+130.33.24.148 - - [16/Nov/2025:11:34:29 -0300] "GET /wp-trackback.php HTTP/1.1" 404 147 "-" "-" BYPASS 0.265
+130.33.24.148 - - [16/Nov/2025:11:34:30 -0300] "GET /about.php?p= HTTP/1.1" 404 146 "-" "-" - 0.000
+130.33.24.148 - - [16/Nov/2025:11:34:30 -0300] "GET /themes.php HTTP/1.1" 404 146 "-" "-" - 0.000
+130.33.24.148 - - [16/Nov/2025:11:34:30 -0300] "GET /wp-login.php HTTP/1.1" 302 5 "-" "-" BYPASS 0.254
+130.33.24.148 - - [16/Nov/2025:11:34:32 -0300] "GET /wp-admin/ HTTP/1.1" 302 5 "-" "-" BYPASS 0.299
+130.33.24.148 - - [16/Nov/2025:11:34:32 -0300] "GET /wp-login.php?redirect_to=https%3A%2F%2Fwww.colonia.estudiantesdelaplata.com%2Fwp-admin%2F&reauth=1 HTTP/1.1" 200 8906 "-" "-" BYPASS 0.264
+130.33.24.148 - - [16/Nov/2025:11:34:33 -0300] "GET /simple.php HTTP/1.1" 404 146 "-" "-" - 0.000
+130.33.24.148 - - [16/Nov/2025:11:34:33 -0300] "GET /class.php?p= HTTP/1.1" 404 146 "-" "-" - 0.000
+130.33.24.148 - - [16/Nov/2025:11:34:33 -0300] "GET /as.php HTTP/1.1" 404 146 "-" "-" - 0.000
+130.33.24.148 - - [16/Nov/2025:11:34:33 -0300] "GET /file.php HTTP/1.1" 404 146 "-" "-" - 0.000
+130.33.24.148 - - [16/Nov/2025:11:34:33 -0300] "GET /bless.php HTTP/1.1" 404 146 "-" "-" - 0.000
+130.33.24.148 - - [16/Nov/2025:11:34:34 -0300] "GET /alfanew.php HTTP/1.1" 404 146 "-" "-" - 0.000
+130.33.24.148 - - [16/Nov/2025:11:34:34 -0300] "GET /404.php?fm=true HTTP/1.1" 404 146 "-" "-" - 0.000
+130.33.24.148 - - [16/Nov/2025:11:34:34 -0300] "GET /ini.php HTTP/1.1" 404 146 "-" "-" - 0.000
+130.33.24.148 - - [16/Nov/2025:11:34:34 -0300] "GET /fm.php?p= HTTP/1.1" 404 146 "-" "-" - 0.000
+130.33.24.148 - - [16/Nov/2025:11:34:34 -0300] "GET /atomlib.php HTTP/1.1" 404 146 "-" "-" - 0.000
+130.33.24.148 - - [16/Nov/2025:11:34:35 -0300] "GET /inputs.php?p= HTTP/1.1" 404 146 "-" "-" - 0.000
+130.33.24.148 - - [16/Nov/2025:11:34:35 -0300] "GET /moon.php?p= HTTP/1.1" 404 146 "-" "-" - 0.000
+130.33.24.148 - - [16/Nov/2025:11:34:35 -0300] "GET /lv.php HTTP/1.1" 404 146 "-" "-" - 0.000
+130.33.24.148 - - [16/Nov/2025:11:34:35 -0300] "GET /cong.php HTTP/1.1" 404 146 "-" "-" - 0.000
+130.33.24.148 - - [16/Nov/2025:11:34:35 -0300] "GET /link.php HTTP/1.1" 404 146 "-" "-" - 0.000
+130.33.24.148 - - [16/Nov/2025:11:34:36 -0300] "GET /buy.php HTTP/1.1" 404 146 "-" "-" - 0.000
+130.33.24.148 - - [16/Nov/2025:11:34:36 -0300] "GET /zfile.php HTTP/1.1" 404 146 "-" "-" - 0.000
+130.33.24.148 - - [16/Nov/2025:11:34:36 -0300] "GET /css.php HTTP/1.1" 404 146 "-" "-" - 0.000
+130.33.24.148 - - [16/Nov/2025:11:34:36 -0300] "GET /radio.php HTTP/1.1" 404 146 "-" "-" - 0.000
+130.33.24.148 - - [16/Nov/2025:11:34:36 -0300] "GET /wp.php HTTP/1.1" 404 146 "-" "-" - 0.000
+130.33.24.148 - - [16/Nov/2025:11:34:36 -0300] "GET /abcd.php HTTP/1.1" 404 146 "-" "-" - 0.000
+130.33.24.148 - - [16/Nov/2025:11:34:37 -0300] "GET /nc4.php HTTP/1.1" 404 146 "-" "-" - 0.000
+130.33.24.148 - - [16/Nov/2025:11:34:37 -0300] "GET /wso.php HTTP/1.1" 404 146 "-" "-" - 0.000
+130.33.24.148 - - [16/Nov/2025:11:34:37 -0300] "GET /rss.php HTTP/1.1" 404 146 "-" "-" - 0.000
+130.33.24.148 - - [16/Nov/2025:11:34:37 -0300] "GET /ant.php HTTP/1.1" 404 146 "-" "-" - 0.000
+130.33.24.148 - - [16/Nov/2025:11:34:37 -0300] "GET /ioxi-o.php HTTP/1.1" 404 146 "-" "-" - 0.000
+130.33.24.148 - - [16/Nov/2025:11:34:38 -0300] "GET /wpc.php?p= HTTP/1.1" 404 146 "-" "-" - 0.000
+130.33.24.148 - - [16/Nov/2025:11:34:38 -0300] "GET /js.php HTTP/1.1" 404 146 "-" "-" - 0.000
+130.33.24.148 - - [16/Nov/2025:11:34:38 -0300] "GET /ar.php HTTP/1.1" 404 146 "-" "-" - 0.000
+130.33.24.148 - - [16/Nov/2025:11:34:38 -0300] "GET /xmrlpc.php?p= HTTP/1.1" 404 146 "-" "-" - 0.000
+130.33.24.148 - - [16/Nov/2025:11:34:38 -0300] "GET /c.php HTTP/1.1" 404 146 "-" "-" - 0.000
+130.33.24.148 - - [16/Nov/2025:11:34:38 -0300] "GET /byp.php HTTP/1.1" 404 146 "-" "-" - 0.000
+130.33.24.148 - - [16/Nov/2025:11:34:39 -0300] "GET /fm1.php HTTP/1.1" 404 146 "-" "-" - 0.000
+130.33.24.148 - - [16/Nov/2025:11:34:39 -0300] "GET /doc.php HTTP/1.1" 404 146 "-" "-" - 0.000
+130.33.24.148 - - [16/Nov/2025:11:34:39 -0300] "GET /Angelv2.php HTTP/1.1" 404 146 "-" "-" - 0.000
+130.33.24.148 - - [16/Nov/2025:11:34:39 -0300] "GET /acp.php HTTP/1.1" 404 146 "-" "-" - 0.000
+130.33.24.148 - - [16/Nov/2025:11:34:39 -0300] "GET /gdn.php HTTP/1.1" 404 146 "-" "-" - 0.000
+130.33.24.148 - - [16/Nov/2025:11:34:39 -0300] "GET /asas.php HTTP/1.1" 404 146 "-" "-" - 0.000
+130.33.24.148 - - [16/Nov/2025:11:34:40 -0300] "GET /123.php HTTP/1.1" 404 146 "-" "-" - 0.000
+130.33.24.148 - - [16/Nov/2025:11:34:40 -0300] "GET /v1.php HTTP/1.1" 404 146 "-" "-" - 0.000
+130.33.24.148 - - [16/Nov/2025:11:34:40 -0300] "GET /v2.php HTTP/1.1" 404 146 "-" "-" - 0.000
+130.33.24.148 - - [16/Nov/2025:11:34:40 -0300] "GET /rk2.php HTTP/1.1" 404 146 "-" "-" - 0.000
+130.33.24.148 - - [16/Nov/2025:11:34:41 -0300] "GET /222.php?p= HTTP/1.1" 404 146 "-" "-" - 0.000
+130.33.24.148 - - [16/Nov/2025:11:34:41 -0300] "GET /wp-22.php HTTP/1.1" 404 146 "-" "-" - 0.000
+130.33.24.148 - - [16/Nov/2025:11:34:41 -0300] "GET /lc.php HTTP/1.1" 404 146 "-" "-" - 0.000
+130.33.24.148 - - [16/Nov/2025:11:34:42 -0300] "GET /mini.php HTTP/1.1" 404 146 "-" "-" - 0.000
+130.33.24.148 - - [16/Nov/2025:11:34:42 -0300] "GET /lv.php HTTP/1.1" 404 146 "-" "-" - 0.000
+130.33.24.148 - - [16/Nov/2025:11:34:42 -0300] "GET /alfanew.php HTTP/1.1" 404 146 "-" "-" - 0.000
+130.33.24.148 - - [16/Nov/2025:11:34:42 -0300] "GET /m.php HTTP/1.1" 404 146 "-" "-" - 0.000
+130.33.24.148 - - [16/Nov/2025:11:34:42 -0300] "GET /db.php HTTP/1.1" 404 146 "-" "-" - 0.000
+130.33.24.148 - - [16/Nov/2025:11:34:42 -0300] "GET /aks.php HTTP/1.1" 404 146 "-" "-" - 0.000
+130.33.24.148 - - [16/Nov/2025:11:34:43 -0300] "GET /f.php HTTP/1.1" 404 146 "-" "-" - 0.000
+130.33.24.148 - - [16/Nov/2025:11:34:43 -0300] "GET /wp-files.php HTTP/1.1" 404 146 "-" "-" - 0.000
+130.33.24.148 - - [16/Nov/2025:11:34:43 -0300] "GET /cloud.php HTTP/1.1" 404 146 "-" "-" - 0.000
+130.33.24.148 - - [16/Nov/2025:11:34:43 -0300] "GET /asa.php HTTP/1.1" 404 146 "-" "-" - 0.000
+130.33.24.148 - - [16/Nov/2025:11:34:44 -0300] "GET /gecko-litespeed.php HTTP/1.1" 404 146 "-" "-" - 0.000
+130.33.24.148 - - [16/Nov/2025:11:34:44 -0300] "GET /bolt.php HTTP/1.1" 404 146 "-" "-" - 0.000
+130.33.24.148 - - [16/Nov/2025:11:34:44 -0300] "GET /NewFile.php HTTP/1.1" 404 146 "-" "-" - 0.000
+130.33.24.148 - - [16/Nov/2025:11:34:44 -0300] "GET /otuz1.php HTTP/1.1" 404 146 "-" "-" - 0.000
+130.33.24.148 - - [16/Nov/2025:11:34:45 -0300] "GET /classwithtostring.php?p= HTTP/1.1" 404 146 "-" "-" - 0.000
+130.33.24.148 - - [16/Nov/2025:11:34:45 -0300] "GET /info.php HTTP/1.1" 404 146 "-" "-" - 0.000
+130.33.24.148 - - [16/Nov/2025:11:34:45 -0300] "GET /mlex.php HTTP/1.1" 404 146 "-" "-" - 0.000
+130.33.24.148 - - [16/Nov/2025:11:34:45 -0300] "GET /file1.php HTTP/1.1" 404 146 "-" "-" - 0.000
+130.33.24.148 - - [16/Nov/2025:11:34:45 -0300] "GET /11.php HTTP/1.1" 404 146 "-" "-" - 0.000
+130.33.24.148 - - [16/Nov/2025:11:34:46 -0300] "GET /warm.PhP7 HTTP/1.1" 301 5 "-" "-" MISS 0.276
+130.33.24.148 - - [16/Nov/2025:11:34:47 -0300] "GET /warm.PhP7 HTTP/1.1" 404 21962 "-" "-" MISS 0.296
+130.33.24.148 - - [16/Nov/2025:11:34:48 -0300] "GET /zxl.php HTTP/1.1" 404 146 "-" "-" - 0.000
+130.33.24.148 - - [16/Nov/2025:11:34:48 -0300] "GET /wp-wso.php HTTP/1.1" 404 146 "-" "-" - 0.000
+130.33.24.148 - - [16/Nov/2025:11:34:48 -0300] "GET /uana.php HTTP/1.1" 404 146 "-" "-" - 0.000
+130.33.24.148 - - [16/Nov/2025:11:34:48 -0300] "GET /a.php HTTP/1.1" 404 146 "-" "-" - 0.000
+130.33.24.148 - - [16/Nov/2025:11:34:49 -0300] "GET /ayk.php HTTP/1.1" 404 146 "-" "-" - 0.000
+130.33.24.148 - - [16/Nov/2025:11:34:49 -0300] "GET /gawean.PhP7 HTTP/1.1" 301 5 "-" "-" MISS 0.339
+130.33.24.148 - - [16/Nov/2025:11:34:50 -0300] "GET /gawean.PhP7 HTTP/1.1" 404 21962 "-" "-" MISS 0.291
+130.33.24.148 - - [16/Nov/2025:11:34:50 -0300] "GET /inc.php HTTP/1.1" 404 146 "-" "-" - 0.000
+130.33.24.148 - - [16/Nov/2025:11:34:50 -0300] "GET /api.php HTTP/1.1" 404 146 "-" "-" - 0.000
+130.33.24.148 - - [16/Nov/2025:11:34:51 -0300] "GET /ioxi-rex4.php7 HTTP/1.1" 301 5 "-" "-" MISS 0.282
+130.33.24.148 - - [16/Nov/2025:11:34:51 -0300] "GET /ioxi-rex4.php7 HTTP/1.1" 404 21962 "-" "-" MISS 0.293
+130.33.24.148 - - [16/Nov/2025:11:34:51 -0300] "GET /million.php HTTP/1.1" 404 146 "-" "-" - 0.000
+130.33.24.148 - - [16/Nov/2025:11:34:52 -0300] "GET /include.php HTTP/1.1" 404 146 "-" "-" - 0.000
+130.33.24.148 - - [16/Nov/2025:11:34:52 -0300] "GET /bala.php HTTP/1.1" 404 146 "-" "-" - 0.000
+130.33.24.148 - - [16/Nov/2025:11:34:52 -0300] "GET /category.tokens.php HTTP/1.1" 404 146 "-" "-" - 0.000
+130.33.24.148 - - [16/Nov/2025:11:34:52 -0300] "GET /mari.php HTTP/1.1" 404 146 "-" "-" - 0.000
+130.33.24.148 - - [16/Nov/2025:11:34:52 -0300] "GET /json.php HTTP/1.1" 404 146 "-" "-" - 0.000
+130.33.24.148 - - [16/Nov/2025:11:34:52 -0300] "GET /new.php HTTP/1.1" 404 146 "-" "-" - 0.000
+130.33.24.148 - - [16/Nov/2025:11:34:53 -0300] "GET /woh.php HTTP/1.1" 404 146 "-" "-" - 0.000
+130.33.24.148 - - [16/Nov/2025:11:34:55 -0300] "GET /admin-ajax.php HTTP/1.1" 404 146 "-" "-" - 0.000
+130.33.24.148 - - [16/Nov/2025:11:34:56 -0300] "GET /wp_mna.php HTTP/1.1" 404 146 "-" "-" - 0.000
+130.33.24.148 - - [16/Nov/2025:11:34:56 -0300] "GET /dex.php HTTP/1.1" 404 146 "-" "-" - 0.000
+130.33.24.148 - - [16/Nov/2025:11:34:56 -0300] "GET /file5.php HTTP/1.1" 404 146 "-" "-" - 0.000
+130.33.24.148 - - [16/Nov/2025:11:34:56 -0300] "GET /bolt.php HTTP/1.1" 404 146 "-" "-" - 0.000
+130.33.24.148 - - [16/Nov/2025:11:34:57 -0300] "GET /flower.php HTTP/1.1" 404 146 "-" "-" - 0.000
+14.229.12.216 - - [16/Nov/2025:12:01:16 -0300] "GET http://colonia.estudiantesdelaplata.com/ HTTP/1.1" 301 5 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" MISS 0.298
+104.209.148.247 - - [16/Nov/2025:12:12:43 -0300] "POST /wp-cron.php?doing_wp_cron=1763305963.1522059440612792968750 HTTP/1.1" 200 31 "-" "WordPress/6.4.7; https://www.colonia.estudiantesdelaplata.com" - 0.001
+190.191.162.224 - - [16/Nov/2025:12:12:43 -0300] "GET / HTTP/2.0" 200 12361 "https://estudiantesdelaplata.com/" "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/22G100 Instagram 406.1.0.48.76 (iPhone14,5; iOS 18_6_2; es_LA; es; scale=3.00; 1170x2532; IABMV/1; 823565292)" EXPIRED 0.503
+190.191.162.224 - - [16/Nov/2025:12:12:43 -0300] "GET /wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.8.2 HTTP/2.0" 200 1004 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/22G100 Instagram 406.1.0.48.76 (iPhone14,5; iOS 18_6_2; es_LA; es; scale=3.00; 1170x2532; IABMV/1; 823565292)" - 0.000
+190.191.162.224 - - [16/Nov/2025:12:12:43 -0300] "GET /wp-content/themes/hello-elementor/style.min.css?ver=2.9.0 HTTP/2.0" 200 1873 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/22G100 Instagram 406.1.0.48.76 (iPhone14,5; iOS 18_6_2; es_LA; es; scale=3.00; 1170x2532; IABMV/1; 823565292)" - 0.000
+190.191.162.224 - - [16/Nov/2025:12:12:43 -0300] "GET /wp-content/themes/hello-elementor/theme.min.css?ver=2.9.0 HTTP/2.0" 200 2490 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/22G100 Instagram 406.1.0.48.76 (iPhone14,5; iOS 18_6_2; es_LA; es; scale=3.00; 1170x2532; IABMV/1; 823565292)" - 0.000
+190.191.162.224 - - [16/Nov/2025:12:12:43 -0300] "GET /wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.17.2 HTTP/2.0" 200 13773 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/22G100 Instagram 406.1.0.48.76 (iPhone14,5; iOS 18_6_2; es_LA; es; scale=3.00; 1170x2532; IABMV/1; 823565292)" - 0.000
+190.191.162.224 - - [16/Nov/2025:12:12:43 -0300] "GET /wp-content/uploads/elementor/css/post-294.css?ver=1699452484 HTTP/2.0" 200 363 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/22G100 Instagram 406.1.0.48.76 (iPhone14,5; iOS 18_6_2; es_LA; es; scale=3.00; 1170x2532; IABMV/1; 823565292)" - 0.000
+190.191.162.224 - - [16/Nov/2025:12:12:43 -0300] "GET /wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.23.0 HTTP/2.0" 200 4009 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/22G100 Instagram 406.1.0.48.76 (iPhone14,5; iOS 18_6_2; es_LA; es; scale=3.00; 1170x2532; IABMV/1; 823565292)" - 0.000
+190.191.162.224 - - [16/Nov/2025:12:12:43 -0300] "GET /wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5 HTTP/2.0" 200 4583 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/22G100 Instagram 406.1.0.48.76 (iPhone14,5; iOS 18_6_2; es_LA; es; scale=3.00; 1170x2532; IABMV/1; 823565292)" - 0.000
+190.191.162.224 - - [16/Nov/2025:12:12:43 -0300] "GET /wp-content/uploads/elementor/css/global.css?ver=1699452484 HTTP/2.0" 200 839 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/22G100 Instagram 406.1.0.48.76 (iPhone14,5; iOS 18_6_2; es_LA; es; scale=3.00; 1170x2532; IABMV/1; 823565292)" - 0.000
+190.191.162.224 - - [16/Nov/2025:12:12:43 -0300] "GET /wp-content/uploads/elementor/css/post-553.css?ver=1732822733 HTTP/2.0" 200 2184 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/22G100 Instagram 406.1.0.48.76 (iPhone14,5; iOS 18_6_2; es_LA; es; scale=3.00; 1170x2532; IABMV/1; 823565292)" - 0.000
+190.191.162.224 - - [16/Nov/2025:12:12:43 -0300] "GET /wp-includes/js/jquery/jquery.min.js?ver=3.7.1 HTTP/2.0" 200 30419 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/22G100 Instagram 406.1.0.48.76 (iPhone14,5; iOS 18_6_2; es_LA; es; scale=3.00; 1170x2532; IABMV/1; 823565292)" - 0.000
+190.191.162.224 - - [16/Nov/2025:12:12:43 -0300] "GET /wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1 HTTP/2.0" 200 4872 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/22G100 Instagram 406.1.0.48.76 (iPhone14,5; iOS 18_6_2; es_LA; es; scale=3.00; 1170x2532; IABMV/1; 823565292)" - 0.000
+190.191.162.224 - - [16/Nov/2025:12:12:43 -0300] "GET /wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.8.2 HTTP/2.0" 200 3182 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/22G100 Instagram 406.1.0.48.76 (iPhone14,5; iOS 18_6_2; es_LA; es; scale=3.00; 1170x2532; IABMV/1; 823565292)" - 0.000
+190.191.162.224 - - [16/Nov/2025:12:12:43 -0300] "GET /wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.8.2 HTTP/2.0" 200 4182 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/22G100 Instagram 406.1.0.48.76 (iPhone14,5; iOS 18_6_2; es_LA; es; scale=3.00; 1170x2532; IABMV/1; 823565292)" - 0.000
+190.191.162.224 - - [16/Nov/2025:12:12:43 -0300] "GET /wp-content/themes/hello-elementor/assets/js/hello-frontend.min.js?ver=1.0.0 HTTP/2.0" 200 620 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/22G100 Instagram 406.1.0.48.76 (iPhone14,5; iOS 18_6_2; es_LA; es; scale=3.00; 1170x2532; IABMV/1; 823565292)" - 0.000
+190.191.162.224 - - [16/Nov/2025:12:12:43 -0300] "GET /wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.17.2 HTTP/2.0" 200 2213 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/22G100 Instagram 406.1.0.48.76 (iPhone14,5; iOS 18_6_2; es_LA; es; scale=3.00; 1170x2532; IABMV/1; 823565292)" - 0.000
+190.191.162.224 - - [16/Nov/2025:12:12:43 -0300] "GET /wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.17.2 HTTP/2.0" 200 16918 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/22G100 Instagram 406.1.0.48.76 (iPhone14,5; iOS 18_6_2; es_LA; es; scale=3.00; 1170x2532; IABMV/1; 823565292)" - 0.000
+190.191.162.224 - - [16/Nov/2025:12:12:43 -0300] "GET /wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2 HTTP/2.0" 200 2995 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/22G100 Instagram 406.1.0.48.76 (iPhone14,5; iOS 18_6_2; es_LA; es; scale=3.00; 1170x2532; IABMV/1; 823565292)" - 0.000
+190.191.162.224 - - [16/Nov/2025:12:12:43 -0300] "GET /wp-includes/js/jquery/ui/core.min.js?ver=1.13.2 HTTP/2.0" 200 7099 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/22G100 Instagram 406.1.0.48.76 (iPhone14,5; iOS 18_6_2; es_LA; es; scale=3.00; 1170x2532; IABMV/1; 823565292)" - 0.000
+190.191.162.224 - - [16/Nov/2025:12:12:43 -0300] "GET /wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.17.2 HTTP/2.0" 200 12234 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/22G100 Instagram 406.1.0.48.76 (iPhone14,5; iOS 18_6_2; es_LA; es; scale=3.00; 1170x2532; IABMV/1; 823565292)" - 0.000
+190.191.162.224 - - [16/Nov/2025:12:12:44 -0300] "GET /wp-content/plugins/elementor/assets/js/text-editor.2c35aafbe5bf0e127950.bundle.min.js HTTP/2.0" 200 665 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/22G100 Instagram 406.1.0.48.76 (iPhone14,5; iOS 18_6_2; es_LA; es; scale=3.00; 1170x2532; IABMV/1; 823565292)" - 0.000
+190.191.162.224 - - [16/Nov/2025:12:12:44 -0300] "GET /wp-content/plugins/elementor/assets/js/tabs.c2af5be7f9cb3cdcf3d5.bundle.min.js HTTP/2.0" 200 1382 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/22G100 Instagram 406.1.0.48.76 (iPhone14,5; iOS 18_6_2; es_LA; es; scale=3.00; 1170x2532; IABMV/1; 823565292)" - 0.000
+107.189.13.175 - - [16/Nov/2025:12:23:36 -0300] "GET /wp-login.php HTTP/1.1" 200 2719 "https://www.google.com/" "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1" BYPASS 0.259
+107.189.13.175 - - [16/Nov/2025:12:23:38 -0300] "POST /wp-login.php HTTP/1.1" 200 2852 "https://www.google.com/" "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1" - 0.255
+199.195.251.69 - - [16/Nov/2025:12:30:09 -0300] "GET / HTTP/1.1" 200 12374 "https://www.bing.com/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 14.5; rv:130.0) Gecko/20100101 Firefox/130.0" MISS 0.397
+199.195.251.69 - - [16/Nov/2025:12:30:10 -0300] "GET /wp-login.php HTTP/1.1" 200 2719 "https://www.bing.com/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 14.5; rv:130.0) Gecko/20100101 Firefox/130.0" BYPASS 0.266
+199.195.251.69 - - [16/Nov/2025:12:30:12 -0300] "POST /wp-login.php HTTP/1.1" 200 2851 "https://www.bing.com/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 14.5; rv:130.0) Gecko/20100101 Firefox/130.0" - 0.256
+45.61.187.69 - - [16/Nov/2025:12:43:01 -0300] "GET /wp-login.php HTTP/1.1" 200 2719 "https://www.bing.com/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" BYPASS 0.261
+45.61.187.69 - - [16/Nov/2025:12:43:03 -0300] "POST /wp-login.php HTTP/1.1" 200 2852 "https://www.bing.com/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" - 0.257
+45.61.187.69 - - [16/Nov/2025:12:44:39 -0300] "GET /wp-login.php HTTP/1.1" 200 2719 "https://www.google.com/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.90 Safari/537.36 Edg/118.0.2088.76" BYPASS 0.256
+45.61.187.69 - - [16/Nov/2025:12:44:40 -0300] "POST /wp-login.php HTTP/1.1" 200 2852 "https://www.google.com/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.90 Safari/537.36 Edg/118.0.2088.76" - 0.259
+104.209.148.247 - - [16/Nov/2025:12:48:39 -0300] "POST /wp-cron.php?doing_wp_cron=1763308119.5529680252075195312500 HTTP/1.1" 200 31 "-" "WordPress/6.4.7; https://www.colonia.estudiantesdelaplata.com" - 0.001
+107.189.12.178 - - [16/Nov/2025:12:48:39 -0300] "GET /wp-login.php HTTP/1.1" 200 2719 "https://www.google.com/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" BYPASS 0.281
+107.189.12.178 - - [16/Nov/2025:12:48:41 -0300] "POST /wp-login.php HTTP/1.1" 200 2852 "https://www.google.com/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" - 0.255
+209.141.60.77 - - [16/Nov/2025:12:54:31 -0300] "GET /wp-login.php HTTP/1.1" 200 2719 "https://duckduckgo.com/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.90 Safari/537.36 Edg/118.0.2088.76" BYPASS 0.261
+209.141.60.77 - - [16/Nov/2025:12:54:33 -0300] "POST /wp-login.php HTTP/1.1" 200 2851 "https://duckduckgo.com/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.90 Safari/537.36 Edg/118.0.2088.76" - 0.252
+45.61.149.134 - - [16/Nov/2025:12:55:59 -0300] "GET / HTTP/1.1" 200 12374 "https://www.baidu.com/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" EXPIRED 0.389
+45.61.149.134 - - [16/Nov/2025:12:56:00 -0300] "GET /wp-login.php HTTP/1.1" 200 2719 "https://www.baidu.com/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" BYPASS 0.298
+45.61.149.134 - - [16/Nov/2025:12:56:02 -0300] "POST /wp-login.php HTTP/1.1" 200 2852 "https://www.baidu.com/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" - 0.262
+45.61.188.132 - - [16/Nov/2025:12:57:05 -0300] "GET /wp-login.php HTTP/1.1" 200 2719 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36" BYPASS 0.254
+45.61.188.132 - - [16/Nov/2025:12:57:08 -0300] "POST /wp-login.php HTTP/1.1" 200 2852 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36" - 0.255
+107.189.1.5 - - [16/Nov/2025:12:57:56 -0300] "GET /wp-login.php HTTP/1.1" 200 2719 "https://www.google.com/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" BYPASS 0.252
+107.189.1.5 - - [16/Nov/2025:12:57:58 -0300] "POST /wp-login.php HTTP/1.1" 200 2851 "https://www.google.com/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" - 0.261
+104.209.148.247 - - [16/Nov/2025:13:05:45 -0300] "POST /wp-cron.php?doing_wp_cron=1763309145.6810970306396484375000 HTTP/1.1" 200 31 "-" "WordPress/6.4.7; https://www.colonia.estudiantesdelaplata.com" - 0.000
+45.61.184.55 - - [16/Nov/2025:13:05:45 -0300] "GET /wp-login.php HTTP/1.1" 200 8789 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36" BYPASS 0.279
+45.61.184.55 - - [16/Nov/2025:13:05:46 -0300] "POST /wp-login.php HTTP/1.1" 200 9249 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36" - 0.271
+136.118.155.84 - - [16/Nov/2025:13:22:01 -0300] "GET / HTTP/1.1" 301 5 "-" "Mozilla/5.0 (compatible; CMS-Checker/1.0; +https://example.com)" MISS 0.256
+136.118.155.84 - - [16/Nov/2025:13:22:03 -0300] "GET / HTTP/2.0" 200 12361 "http://www.colonia.estudiantesdelaplata.com" "Mozilla/5.0 (compatible; CMS-Checker/1.0; +https://example.com)" EXPIRED 0.386
+45.148.10.152 - - [16/Nov/2025:13:30:13 -0300] "GET /.git/config HTTP/1.1" 403 146 "-" "Mozilla/5.0 (X11; Linux i686; rv:1.9.5.20) Gecko/ Firefox/3.6.15" - 0.000
+45.61.187.69 - - [16/Nov/2025:13:30:40 -0300] "GET /wp-login.php HTTP/1.1" 200 2719 "https://www.google.com/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" BYPASS 0.379
+45.61.187.69 - - [16/Nov/2025:13:30:42 -0300] "POST /wp-login.php HTTP/1.1" 200 2852 "https://www.google.com/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" - 0.266
+66.249.66.41 - - [16/Nov/2025:13:31:33 -0300] "GET / HTTP/1.1" 200 12374 "-" "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.122 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" MISS 0.396
+107.189.14.134 - - [16/Nov/2025:13:31:38 -0300] "GET /wp-login.php HTTP/1.1" 200 2719 "https://www.bing.com/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.90 Safari/537.36 Edg/118.0.2088.76" BYPASS 0.249
+107.189.14.134 - - [16/Nov/2025:13:31:39 -0300] "POST /wp-login.php HTTP/1.1" 200 2852 "https://www.bing.com/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.90 Safari/537.36 Edg/118.0.2088.76" - 0.256
+66.249.66.41 - - [16/Nov/2025:13:31:39 -0300] "GET /wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.8.2 HTTP/1.1" 200 1016 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.122 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" - 0.000
+66.249.66.1 - - [16/Nov/2025:13:31:39 -0300] "GET /wp-content/uploads/elementor/css/post-553.css?ver=1732822733 HTTP/1.1" 200 2196 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.122 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" - 0.000
+66.249.66.41 - - [16/Nov/2025:13:31:39 -0300] "GET /wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.8.2 HTTP/1.1" 200 3194 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.122 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" - 0.000
+66.249.66.78 - - [16/Nov/2025:13:31:40 -0300] "GET /wp-content/uploads/elementor/css/global.css?ver=1699452484 HTTP/1.1" 200 851 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.122 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" - 0.000
+66.249.66.41 - - [16/Nov/2025:13:31:40 -0300] "GET /wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.8.2 HTTP/1.1" 200 4195 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.122 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" - 0.000
+66.249.66.64 - - [16/Nov/2025:13:31:40 -0300] "GET /wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.17.2 HTTP/1.1" 200 13786 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.122 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" - 0.000
+66.249.66.160 - - [16/Nov/2025:13:31:41 -0300] "GET /wp-content/uploads/elementor/css/post-294.css?ver=1699452484 HTTP/1.1" 200 375 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.122 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" - 0.000
+66.249.66.160 - - [16/Nov/2025:13:31:41 -0300] "GET /wp-content/themes/hello-elementor/assets/js/hello-frontend.min.js?ver=1.0.0 HTTP/1.1" 200 632 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.122 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" - 0.000
+66.249.66.15 - - [16/Nov/2025:13:31:42 -0300] "GET /wp-content/themes/hello-elementor/theme.min.css?ver=2.9.0 HTTP/1.1" 200 2502 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.122 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" - 0.000
+66.249.66.41 - - [16/Nov/2025:13:31:42 -0300] "GET /wp-content/themes/hello-elementor/style.min.css?ver=2.9.0 HTTP/1.1" 200 1885 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.122 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" - 0.000
+66.249.66.78 - - [16/Nov/2025:13:31:42 -0300] "GET /wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.23.0 HTTP/1.1" 200 4021 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.122 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" - 0.000
+66.249.66.197 - - [16/Nov/2025:13:31:43 -0300] "GET /wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5 HTTP/1.1" 200 4596 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.122 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" - 0.000
+66.249.66.41 - - [16/Nov/2025:13:31:43 -0300] "GET /wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.17.2 HTTP/1.1" 200 2225 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.122 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" - 0.000
+66.249.66.41 - - [16/Nov/2025:13:31:43 -0300] "GET /wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.17.2 HTTP/1.1" 200 16931 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.122 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" - 0.000
+66.249.66.197 - - [16/Nov/2025:13:31:44 -0300] "GET /wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.17.2 HTTP/1.1" 200 12247 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.122 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" - 0.000
+66.249.66.78 - - [16/Nov/2025:13:31:44 -0300] "GET /wp-includes/js/jquery/ui/core.min.js?ver=1.13.2 HTTP/1.1" 200 7112 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.122 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" - 0.000
+66.249.66.41 - - [16/Nov/2025:13:31:44 -0300] "GET /wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2 HTTP/1.1" 200 3007 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.122 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" - 0.000
+66.249.66.41 - - [16/Nov/2025:13:31:45 -0300] "GET /wp-content/plugins/elementor/assets/js/text-editor.2c35aafbe5bf0e127950.bundle.min.js HTTP/1.1" 200 677 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.122 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" - 0.000
+66.249.66.15 - - [16/Nov/2025:13:31:45 -0300] "GET /wp-content/plugins/elementor/assets/js/tabs.c2af5be7f9cb3cdcf3d5.bundle.min.js HTTP/1.1" 200 1394 "https://www.colonia.estudiantesdelaplata.com/" "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.122 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" - 0.000
+45.61.184.130 - - [16/Nov/2025:13:35:25 -0300] "GET /wp-login.php HTTP/1.1" 200 8789 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36" BYPASS 0.252
+45.61.184.130 - - [16/Nov/2025:13:35:30 -0300] "POST /wp-login.php HTTP/1.1" 200 9253 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36" - 0.266
+157.55.39.193 - - [16/Nov/2025:13:42:19 -0300] "GET / HTTP/2.0" 301 0 "-" "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36" MISS 0.249
+207.46.13.78 - - [16/Nov/2025:13:42:30 -0300] "GET / HTTP/2.0" 200 12361 "-" "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36" EXPIRED 0.406
+107.189.12.15 - - [16/Nov/2025:13:42:34 -0300] "GET /wp-login.php HTTP/1.1" 200 2719 "https://www.yahoo.com/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.117 Safari/537.36" BYPASS 0.254
+107.189.12.15 - - [16/Nov/2025:13:42:36 -0300] "POST /wp-login.php HTTP/1.1" 200 2852 "https://www.yahoo.com/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.117 Safari/537.36" - 0.283
+45.61.188.132 - - [16/Nov/2025:13:46:21 -0300] "GET /wp-login.php HTTP/1.1" 200 2719 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:31.0) Gecko/20100101 Firefox/31.0" BYPASS 0.251
+45.61.188.132 - - [16/Nov/2025:13:46:21 -0300] "POST /wp-login.php HTTP/1.1" 200 2852 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:31.0) Gecko/20100101 Firefox/31.0" - 0.256
+209.141.34.83 - - [16/Nov/2025:13:47:23 -0300] "GET /wp-login.php HTTP/1.1" 200 2719 "-" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36" BYPASS 0.268
+209.141.34.83 - - [16/Nov/2025:13:47:23 -0300] "POST /wp-login.php HTTP/1.1" 200 2852 "-" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36" - 0.257
+136.118.155.84 - - [16/Nov/2025:13:48:06 -0300] "GET / HTTP/1.1" 301 5 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" MISS 0.253
+136.118.155.84 - - [16/Nov/2025:13:48:07 -0300] "GET / HTTP/1.1" 200 69420 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" HIT 0.000
+136.118.155.84 - - [16/Nov/2025:13:48:07 -0300] "GET //wp-includes/wlwmanifest.xml HTTP/1.1" 301 5 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" MISS 0.556
+136.118.155.84 - - [16/Nov/2025:13:48:07 -0300] "GET //xmlrpc.php?rsd HTTP/1.1" 200 942 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" BYPASS 0.318
+136.118.155.84 - - [16/Nov/2025:13:48:08 -0300] "GET //?author=1 HTTP/1.1" 301 5 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" BYPASS 0.325
+136.118.155.84 - - [16/Nov/2025:13:48:08 -0300] "GET //?author=2 HTTP/1.1" 301 5 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" BYPASS 0.399
+136.118.155.84 - - [16/Nov/2025:13:48:09 -0300] "GET //wp-json/wp/v2/users/ HTTP/1.1" 200 1346 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" MISS 0.333
+136.118.155.84 - - [16/Nov/2025:13:48:09 -0300] "POST //xmlrpc.php HTTP/1.1" 200 425 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" - 0.291
+136.118.155.84 - - [16/Nov/2025:13:48:09 -0300] "POST //xmlrpc.php HTTP/1.1" 200 425 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" - 0.285
+136.118.155.84 - - [16/Nov/2025:13:48:10 -0300] "POST //xmlrpc.php HTTP/1.1" 200 425 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" - 0.284
+136.118.155.84 - - [16/Nov/2025:13:48:10 -0300] "POST //xmlrpc.php HTTP/1.1" 200 425 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" - 0.284
+136.118.155.84 - - [16/Nov/2025:13:48:10 -0300] "POST //xmlrpc.php HTTP/1.1" 200 425 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" - 0.287
+136.118.155.84 - - [16/Nov/2025:13:48:11 -0300] "POST //xmlrpc.php HTTP/1.1" 200 425 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" - 0.287
+136.118.155.84 - - [16/Nov/2025:13:48:11 -0300] "POST //xmlrpc.php HTTP/1.1" 200 425 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" - 0.288
+45.61.186.220 - - [16/Nov/2025:13:56:11 -0300] "GET /wp-login.php HTTP/1.1" 200 2719 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" BYPASS 0.271
+45.61.186.220 - - [16/Nov/2025:13:56:21 -0300] "POST /wp-login.php HTTP/1.1" 200 2852 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" - 0.256
+198.98.59.143 - - [16/Nov/2025:14:00:28 -0300] "GET /wp-login.php HTTP/1.1" 200 2719 "https://www.google.com/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" BYPASS 0.253
+198.98.59.143 - - [16/Nov/2025:14:00:29 -0300] "POST /wp-login.php HTTP/1.1" 200 2851 "https://www.google.com/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" - 0.261
+172.190.142.176 - - [16/Nov/2025:14:00:40 -0300] "GET /wp-content/plugins/hellopress/wp_filemanager.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:40 -0300] "GET /shoha.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:40 -0300] "GET /ze.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:40 -0300] "GET /xo.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:40 -0300] "GET /wp-the1me.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:40 -0300] "GET /m.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:40 -0300] "GET /e.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:40 -0300] "GET /dd1.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:40 -0300] "GET /conn.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:40 -0300] "GET /card.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:40 -0300] "GET /asas.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:40 -0300] "GET /kki.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:40 -0300] "GET /js.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:40 -0300] "GET /view.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:40 -0300] "GET /wso.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:40 -0300] "GET /sid3.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:40 -0300] "GET /mans.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:40 -0300] "GET /111.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:40 -0300] "GET /403.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:40 -0300] "GET /4yps5d.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:40 -0300] "GET /fs6.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:40 -0300] "GET /lv.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:40 -0300] "GET /habhan.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:40 -0300] "GET /akcc.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:40 -0300] "GET /bi1f.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:40 -0300] "GET /lib.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:40 -0300] "GET /luxe.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:40 -0300] "GET /wsd.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:40 -0300] "GET /404.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:40 -0300] "GET /an7.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:40 -0300] "GET /fs7.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:40 -0300] "GET /new4.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:40 -0300] "GET /icon.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:40 -0300] "GET /blox.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:40 -0300] "GET /gm.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:40 -0300] "GET /iko.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:40 -0300] "GET /miso.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:40 -0300] "GET /moie.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:40 -0300] "GET /shelp.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:40 -0300] "GET /siln.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:40 -0300] "GET /sko.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:40 -0300] "GET /3.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:40 -0300] "GET /wp-gif.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:40 -0300] "GET /wp-good.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:40 -0300] "GET /rrr.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:40 -0300] "GET /tj.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:40 -0300] "GET /vansec.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:40 -0300] "GET /filesss.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:40 -0300] "GET /ss.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:40 -0300] "GET /wp-is.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:40 -0300] "GET /jmfi2.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:41 -0300] "GET /scx.php7 HTTP/1.1" 301 5 "-" "-" MISS 0.258
+172.190.142.176 - - [16/Nov/2025:14:00:41 -0300] "GET /scx.php7 HTTP/1.1" 404 21974 "-" "-" MISS 0.299
+172.190.142.176 - - [16/Nov/2025:14:00:41 -0300] "GET /777.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:41 -0300] "GET /f35.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:41 -0300] "GET /ioxi-o.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:41 -0300] "GET /csv.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:41 -0300] "GET /shlo.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:41 -0300] "GET /abc.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:41 -0300] "GET /wpc1.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:41 -0300] "GET /ww.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:41 -0300] "GET /raw.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:41 -0300] "GET /mah.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:41 -0300] "GET /p.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:41 -0300] "GET /xpas22.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:41 -0300] "GET /wp1.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:41 -0300] "GET /fm.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:41 -0300] "GET /eauu.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:41 -0300] "GET /css.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:41 -0300] "GET /ru.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:41 -0300] "GET /tmpls.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:41 -0300] "GET /shell.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:41 -0300] "GET /ae.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:41 -0300] "GET /smpx.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:41 -0300] "GET /wp-asd.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:41 -0300] "GET /class5.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:41 -0300] "GET /yas.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:41 -0300] "GET /yanki.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:41 -0300] "GET /g7y.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:41 -0300] "GET /ok.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:41 -0300] "GET /yasnu.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:41 -0300] "GET /moon.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:41 -0300] "GET /wio.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:41 -0300] "GET /oswkk.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:41 -0300] "GET /rex.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:41 -0300] "GET /aj.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:41 -0300] "GET /snus.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:41 -0300] "GET /naxc.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:42 -0300] "GET /v3.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:42 -0300] "GET /nc4.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:42 -0300] "GET /api137.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:42 -0300] "GET /class629.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:42 -0300] "GET /wp-x7.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:42 -0300] "GET /wp670.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:42 -0300] "GET /Okxob.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:42 -0300] "GET /Sanskrit.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:42 -0300] "GET /jq.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:42 -0300] "GET /x7.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:42 -0300] "GET /zex.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:42 -0300] "GET /zxin.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:42 -0300] "GET /asd67.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:42 -0300] "GET /st.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:42 -0300] "GET /an.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:42 -0300] "GET /enkkk.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:42 -0300] "GET /ext.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:42 -0300] "GET /fe5.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:42 -0300] "GET /13.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:42 -0300] "GET /wp.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:42 -0300] "GET /wp-freya.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:42 -0300] "GET /hello.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:42 -0300] "GET /ex.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:42 -0300] "GET /lock1.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:42 -0300] "GET /mini.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:42 -0300] "GET /ups.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:42 -0300] "GET /bes.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:42 -0300] "GET /wp-swa.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:42 -0300] "GET /42u.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:42 -0300] "GET /lc.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:42 -0300] "GET /gmo.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:42 -0300] "GET /CLA.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:42 -0300] "GET /gfile.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:42 -0300] "GET /ahax.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:42 -0300] "GET /gold.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:42 -0300] "GET /ol.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:42 -0300] "GET /wp-gr.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:42 -0300] "GET /co.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:42 -0300] "GET /aua.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:42 -0300] "GET /aa.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:42 -0300] "GET /great.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:42 -0300] "GET /class9.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:42 -0300] "GET /pass.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:42 -0300] "GET /lock360.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:42 -0300] "GET /ot.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:42 -0300] "GET /witmm.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:42 -0300] "GET /lo.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:42 -0300] "GET /vxrl.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:42 -0300] "GET /vxonb.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:42 -0300] "GET /wozxsh.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:42 -0300] "GET /whf.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:42 -0300] "GET /bkxzo.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:42 -0300] "GET /okxoby.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:42 -0300] "GET /error1.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:42 -0300] "GET /xtt.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:42 -0300] "GET /autoload_classmap.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:42 -0300] "GET /wcas.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:42 -0300] "GET /class-db.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:42 -0300] "GET /xxx.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:42 -0300] "GET /acp.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:42 -0300] "GET /awh77.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:42 -0300] "GET /nax.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:42 -0300] "GET /wolv2.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:42 -0300] "GET /mtvcrew.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:42 -0300] "GET /twso.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:42 -0300] "GET /144.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:42 -0300] "GET /exhitrgp.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.190.142.176 - - [16/Nov/2025:14:00:42 -0300] "GET /n3.php HTTP/1.1" 404 146 "-" "-" - 0.000
+104.209.148.247 - - [16/Nov/2025:14:02:06 -0300] "POST /wp-cron.php?doing_wp_cron=1763312526.7013459205627441406250 HTTP/1.1" 200 31 "-" "WordPress/6.4.7; https://www.colonia.estudiantesdelaplata.com" - 0.001
+107.189.1.5 - - [16/Nov/2025:14:02:06 -0300] "GET /wp-login.php HTTP/1.1" 200 2719 "https://duckduckgo.com/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" BYPASS 0.276
+107.189.1.5 - - [16/Nov/2025:14:02:08 -0300] "POST /wp-login.php HTTP/1.1" 200 2852 "https://duckduckgo.com/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" - 0.261
+205.185.120.218 - - [16/Nov/2025:14:02:10 -0300] "GET /wp-login.php HTTP/1.1" 200 2719 "-" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:31.0) Gecko/20100101 Firefox/31.0" BYPASS 0.258
+205.185.120.218 - - [16/Nov/2025:14:02:11 -0300] "POST /wp-login.php HTTP/1.1" 200 2851 "-" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:31.0) Gecko/20100101 Firefox/31.0" - 0.258
+205.185.120.118 - - [16/Nov/2025:14:03:42 -0300] "GET /wp-login.php HTTP/1.1" 200 8789 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36" BYPASS 0.253
+205.185.120.118 - - [16/Nov/2025:14:03:45 -0300] "POST /wp-login.php HTTP/1.1" 200 9251 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36" - 0.251
+107.189.1.5 - - [16/Nov/2025:14:05:19 -0300] "GET /wp-login.php HTTP/1.1" 200 2719 "https://www.yahoo.com/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.117 Safari/537.36" BYPASS 0.253
+107.189.1.5 - - [16/Nov/2025:14:05:20 -0300] "POST /wp-login.php HTTP/1.1" 200 2852 "https://www.yahoo.com/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.117 Safari/537.36" - 0.251
+172.200.56.243 - - [16/Nov/2025:14:05:23 -0300] "GET /aa.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.200.56.243 - - [16/Nov/2025:14:05:23 -0300] "GET /abcd.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.200.56.243 - - [16/Nov/2025:14:05:23 -0300] "GET /admin.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.200.56.243 - - [16/Nov/2025:14:05:23 -0300] "GET /buy.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.200.56.243 - - [16/Nov/2025:14:05:23 -0300] "GET /cgi-bin/ HTTP/1.1" 301 5 "-" "-" MISS 0.259
+172.200.56.243 - - [16/Nov/2025:14:05:23 -0300] "GET /cgi-bin/ HTTP/1.1" 404 21974 "-" "-" MISS 0.293
+172.200.56.243 - - [16/Nov/2025:14:05:23 -0300] "GET /edit.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.200.56.243 - - [16/Nov/2025:14:05:23 -0300] "GET /file.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.200.56.243 - - [16/Nov/2025:14:05:23 -0300] "GET /flower.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.200.56.243 - - [16/Nov/2025:14:05:23 -0300] "GET /images/index.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.200.56.243 - - [16/Nov/2025:14:05:23 -0300] "GET /info.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.200.56.243 - - [16/Nov/2025:14:05:23 -0300] "GET /ioxi-o.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.200.56.243 - - [16/Nov/2025:14:05:23 -0300] "GET /nc4.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.200.56.243 - - [16/Nov/2025:14:05:23 -0300] "GET /xleet.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.200.56.243 - - [16/Nov/2025:14:05:23 -0300] "GET /wp-admin/includes/ HTTP/1.1" 403 146 "-" "-" - 0.000
+172.200.56.243 - - [16/Nov/2025:14:05:23 -0300] "GET /wp-content/upgrade/index.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.200.56.243 - - [16/Nov/2025:14:05:23 -0300] "GET /wp-content/uploads/admin.php HTTP/1.1" 403 146 "-" "-" - 0.000
+172.200.56.243 - - [16/Nov/2025:14:05:23 -0300] "GET /wp-good.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.200.56.243 - - [16/Nov/2025:14:05:23 -0300] "GET /wp-includes/Text/Diff/Renderer/ HTTP/1.1" 403 146 "-" "-" - 0.000
+172.200.56.243 - - [16/Nov/2025:14:05:23 -0300] "GET /wp-includes/style-engine/ HTTP/1.1" 403 146 "-" "-" - 0.000
+172.200.56.243 - - [16/Nov/2025:14:05:23 -0300] "GET /xmrlpc.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.200.56.243 - - [16/Nov/2025:14:05:23 -0300] "GET /about.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.200.56.243 - - [16/Nov/2025:14:05:23 -0300] "GET /adminfuns.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.200.56.243 - - [16/Nov/2025:14:05:23 -0300] "GET /alfa.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.200.56.243 - - [16/Nov/2025:14:05:23 -0300] "GET /asasx.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.200.56.243 - - [16/Nov/2025:14:05:24 -0300] "GET /autoload_classmap.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.200.56.243 - - [16/Nov/2025:14:05:24 -0300] "GET /classwithtostring.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.200.56.243 - - [16/Nov/2025:14:05:24 -0300] "GET /cong.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.200.56.243 - - [16/Nov/2025:14:05:24 -0300] "GET /file2.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.200.56.243 - - [16/Nov/2025:14:05:24 -0300] "GET /moon.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.200.56.243 - - [16/Nov/2025:14:05:24 -0300] "GET /wp-admin/css/colors/blue/index.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.200.56.243 - - [16/Nov/2025:14:05:24 -0300] "GET /wp-content/index.php HTTP/1.1" 200 5 "-" "-" BYPASS 0.001
+172.200.56.243 - - [16/Nov/2025:14:05:24 -0300] "GET /wp-content/plugins/yanierin/akcc.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.200.56.243 - - [16/Nov/2025:14:05:24 -0300] "GET /wp-content/uploads/index.php HTTP/1.1" 403 146 "-" "-" - 0.000
+172.200.56.243 - - [16/Nov/2025:14:05:24 -0300] "GET /wp-content/wp-conflg.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.200.56.243 - - [16/Nov/2025:14:05:24 -0300] "GET /wp-cron.php HTTP/1.1" 200 5 "-" "-" BYPASS 0.001
+172.200.56.243 - - [16/Nov/2025:14:05:24 -0300] "GET /wp-includes/IXR/ HTTP/1.1" 403 146 "-" "-" - 0.000
+172.200.56.243 - - [16/Nov/2025:14:05:24 -0300] "GET /wp-includes/block-supports/ HTTP/1.1" 403 146 "-" "-" - 0.000
+172.200.56.243 - - [16/Nov/2025:14:05:24 -0300] "GET /wp-includes/fonts/ HTTP/1.1" 403 146 "-" "-" - 0.000
+172.200.56.243 - - [16/Nov/2025:14:05:24 -0300] "GET /wp-includes/fonts/index.php HTTP/1.1" 404 146 "-" "-" - 0.000
+172.200.56.243 - - [16/Nov/2025:14:05:24 -0300] "GET /wp-includes/js/crop/ HTTP/1.1" 403 146 "-" "-" - 0.000
+172.200.56.243 - - [16/Nov/2025:14:05:24 -0300] "GET /wp-includes/rest-api/ HTTP/1.1" 403 146 "-" "-" - 0.000
+172.200.56.243 - - [16/Nov/2025:14:05:24 -0300] "GET /wp-includes/widgets/ HTTP/1.1" 403 146 "-" "-" - 0.000
+209.141.61.31 - - [16/Nov/2025:14:06:24 -0300] "GET /wp-login.php HTTP/1.1" 200 2719 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36" BYPASS 0.262
+104.244.72.193 - - [16/Nov/2025:14:06:27 -0300] "GET /wp-login.php HTTP/1.1" 200 2719 "https://www.bing.com/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" BYPASS 0.296
+104.244.72.193 - - [16/Nov/2025:14:06:28 -0300] "POST /wp-login.php HTTP/1.1" 200 2852 "https://www.bing.com/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" - 0.260
+209.141.61.31 - - [16/Nov/2025:14:07:05 -0300] "POST /wp-login.php HTTP/1.1" 200 2851 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36" - 0.262
+45.61.149.134 - - [16/Nov/2025:14:08:37 -0300] "GET / HTTP/1.1" 200 12374 "https://duckduckgo.com/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" EXPIRED 0.385
+45.61.149.134 - - [16/Nov/2025:14:08:38 -0300] "GET /wp-login.php HTTP/1.1" 200 2719 "https://duckduckgo.com/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" BYPASS 0.259
+45.61.149.134 - - [16/Nov/2025:14:08:39 -0300] "POST /wp-login.php HTTP/1.1" 200 2852 "https://duckduckgo.com/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" - 0.256
+104.244.74.116 - - [16/Nov/2025:14:15:41 -0300] "GET /wp-login.php HTTP/1.1" 200 2719 "https://duckduckgo.com/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.90 Safari/537.36 Edg/118.0.2088.76" BYPASS 0.260
+104.244.74.116 - - [16/Nov/2025:14:15:43 -0300] "POST /wp-login.php HTTP/1.1" 200 2851 "https://duckduckgo.com/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.90 Safari/537.36 Edg/118.0.2088.76" - 0.256
+107.189.30.207 - - [16/Nov/2025:14:20:31 -0300] "GET /wp-login.php HTTP/1.1" 200 2719 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" BYPASS 0.266
+107.189.30.207 - - [16/Nov/2025:14:20:32 -0300] "POST /wp-login.php HTTP/1.1" 200 2852 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" - 0.431
+104.244.78.206 - - [16/Nov/2025:14:20:43 -0300] "GET /wp-login.php HTTP/1.1" 200 8789 "-" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36" BYPASS 0.253
+104.244.78.206 - - [16/Nov/2025:14:21:07 -0300] "POST /wp-login.php HTTP/1.1" 200 9249 "-" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36" - 0.261
+45.148.10.152 - - [16/Nov/2025:14:24:33 -0300] "GET /.env HTTP/1.1" 403 548 "-" "Mozilla/5.0 (Debian; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" - 0.000
+104.244.78.206 - - [16/Nov/2025:14:25:42 -0300] "GET /wp-login.php HTTP/1.1" 200 8789 "-" "Mozilla/5.0 (Windows NT 6.1; rv:30.0) Gecko/20100101 Firefox/30.0" BYPASS 0.904
+104.244.78.206 - - [16/Nov/2025:14:25:42 -0300] "POST /wp-login.php HTTP/1.1" 200 9249 "-" "Mozilla/5.0 (Windows NT 6.1; rv:30.0) Gecko/20100101 Firefox/30.0" - 0.257
+200.105.77.209 - - [16/Nov/2025:14:33:18 -0300] "GET / HTTP/2.0" 200 12361 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" EXPIRED 0.505
